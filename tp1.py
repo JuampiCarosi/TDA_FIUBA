@@ -28,14 +28,11 @@ def calcular_tiempo(videos):
         duracion_total = max(duracion_total, tiempo_scaloni + video['S_i'] + video['A_i'])
         tiempo_scaloni += video['S_i']
     return duracion_total
-
-def main():
+   
+   
+if __name__ == "__main__":
     archivo_txt = sys.argv[1]
     videos = obtener_videos(archivo_txt)
     videos_ordenados = optimizar_cronograma(videos)
     tiempo_total = calcular_tiempo(videos_ordenados)
-    print(tiempo_total)
-
-
-
-# main()
+    print(f'la duracion optima es de: {tiempo_total}')
