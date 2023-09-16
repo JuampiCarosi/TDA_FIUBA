@@ -1,6 +1,4 @@
 import sys
-import time
-import progressbar
 
 def obtener_videos(archivo_txt):
     with open(archivo_txt, "r") as archivo:
