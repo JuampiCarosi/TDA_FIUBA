@@ -1,4 +1,6 @@
-tests/*
+
 .DS_Store
 .vscode/
 __pycache__/
+*/catedra/*
+*/tests/*
