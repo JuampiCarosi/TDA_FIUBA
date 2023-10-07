@@ -10,7 +10,7 @@ def obtener_cronograma(archivo_txt):
   
   return energia, descanso
 
-def ganacias_por_dia(energia, descanso, optimizar=True):
+def ganacias_por_dia(energia, descanso):
   dias = []
 
   for dia in range(len(energia)):
@@ -34,8 +34,7 @@ def ganacias_por_dia(energia, descanso, optimizar=True):
       if posibilidades_hoy[mejor_posibilidad] < nueva_posibilidad:
         mejor_posibilidad = dias_acumulados + 1
     
-    if optimizar:
-      posibilidades_hoy = posibilidades_hoy[:mejor_posibilidad+1]
+    posibilidades_hoy = posibilidades_hoy[:mejor_posibilidad+1]
     dias.append(posibilidades_hoy)
     
   return dias
