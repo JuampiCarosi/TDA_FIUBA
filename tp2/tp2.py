@@ -63,10 +63,9 @@ if __name__ == "__main__":
     archivo_txt = sys.argv[1]
     energia, descanso = obtener_cronograma(archivo_txt)
     dias = ganacias_por_dia(energia, descanso)
-    print(dias)
-    print("opciones posibles al final: ", len(dias[-1]))
     mejor = max(dias[-1])
-    print(mejor)
-
-    entrenamientos = organizar_entrenamientos(dias, energia, descanso)
-    print(', '.join(entrenamientos))
+    print(f'La ganancia maxima es de: {mejor}\n')
+    if len(sys.argv) >= 3 and sys.argv[2] == "--listar":
+        entrenamientos = organizar_entrenamientos(dias, energia, descanso)
+        print(f'El cronograma optimo es:')
+        print(', '.join(entrenamientos))
