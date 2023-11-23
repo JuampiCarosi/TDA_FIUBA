@@ -1,22 +1,8 @@
 import heapq
+import sys
+import time
 
-archivo = open("75.txt", "r")
-elementos = set()
-subconjuntos = []
-for linea in archivo:
-    linea_stripped = linea.strip()
-    subset = linea_stripped.split(",")
-    subconjuntos.append(subset)
-    for e in subset:
-        elementos.add(e.strip())
-archivo.close()
-
-
-def es_valido(seleccionados, subconjuntos):
-    for subset in subconjuntos:
-        if not any(e in seleccionados for e in subset):
-            return False
-    return True
+from utils import leer_archivo
 
 
 def subsets_a_los_que_pertenecen(elemento, subconjuntos, subsets_cubiertos):
@@ -27,26 +13,30 @@ def subsets_a_los_que_pertenecen(elemento, subconjuntos, subsets_cubiertos):
             subsets.add(i)
     return subsets
 
+def generar_frecuencias_heap(jugadores, subconjuntos, subsets_cubiertos):
+    frecuencias = {jugador: 0 for jugador in jugadores}
 
-def greedy(elementos, subconjuntos):
-    frecuencias = {elemento: 0 for elemento in elementos}
+    for (i, subset) in enumerate(subconjuntos):
+        if i not in subsets_cubiertos:
+            for jugador in subset:
+                frecuencias[jugador] += 1
 
-    for subset in subconjuntos:
-        for elemento in subset:
-            frecuencias[elemento] += 1
+    frecuencias_heap = [(-freq, jugador)
+                        for jugador, freq in frecuencias.items()]
 
-    frecuencias_heap = [(-freq, elemento)
-                        for elemento, freq in frecuencias.items()]
     heapq.heapify(frecuencias_heap)
+    return frecuencias_heap
 
+
+def greedy_rapido(jugadores, subconjuntos):
     seleccionados = set()
     subsets_cubiertos = set()
+    
+    frecuencias_heap = generar_frecuencias_heap(jugadores, subconjuntos, subsets_cubiertos)
 
-    while not es_valido(seleccionados, subconjuntos):
-        if not frecuencias_heap:
-            break
-
+    while not len(subsets_cubiertos) == len(subconjuntos):
         _, maximo = heapq.heappop(frecuencias_heap)
+        
         subsets_cubiertos_nuevos = subsets_a_los_que_pertenecen(
             maximo, subconjuntos, subsets_cubiertos)
 
@@ -59,4 +49,40 @@ def greedy(elementos, subconjuntos):
     return seleccionados
 
 
-print(len(greedy(elementos, subconjuntos)))
+def greedy_preciso(jugadores, subconjuntos):
+    
+    seleccionados = set()
+    subsets_cubiertos = set()
+
+    while not len(subsets_cubiertos) == len(subconjuntos):
+        frecuencias_heap = generar_frecuencias_heap(jugadores, subconjuntos, subsets_cubiertos)
+
+        _, maximo = heapq.heappop(frecuencias_heap)
+        
+        subsets_cubiertos_nuevos = subsets_a_los_que_pertenecen(
+            maximo, subconjuntos, subsets_cubiertos)
+
+        subsets_cubiertos |= subsets_cubiertos_nuevos
+        seleccionados.add(maximo)
+
+    return seleccionados
+
+
+if __name__ == "__main__":
+    jugadores, subconjuntos = leer_archivo(sys.argv[1])
+    
+    start = time.time()
+    solucion = greedy_rapido(jugadores, subconjuntos)
+    end = time.time()
+    print("===  Greedy rapido  ===")
+    print("Tiempo de ejecucion:", end - start)
+    print("Cantidad seleccionada:", len(solucion))
+    print("Jugadores seleccionados:", solucion)
+    
+    start = time.time()
+    solucion = greedy_preciso(jugadores, subconjuntos)
+    end = time.time()
+    print("===  Greedy preciso  ===")
+    print("Tiempo de ejecucion:", end - start)
+    print("Cantidad seleccionada:", len(solucion))
+    print("Jugadores seleccionados:", solucion)
