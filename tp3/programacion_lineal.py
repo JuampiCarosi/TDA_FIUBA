@@ -1,6 +1,6 @@
 from pulp import LpProblem, LpVariable, LpMinimize, lpSum
 
-archivo = open("75.txt", "r")
+archivo = open("sets_prueba/200_30.txt", "r")
 elementos = set()
 subconjuntos = []
 for linea in archivo:

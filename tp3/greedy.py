@@ -1,7 +1,6 @@
 import heapq
 
-
-archivo = open("100.txt", "r")
+archivo = open("75.txt", "r")
 elementos = set()
 subconjuntos = []
 for linea in archivo:

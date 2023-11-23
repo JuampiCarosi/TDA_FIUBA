@@ -1,4 +1,3 @@
-
 archivo = open("10_todos.txt", "r")
 elementos = set()
 subconjuntos = []
