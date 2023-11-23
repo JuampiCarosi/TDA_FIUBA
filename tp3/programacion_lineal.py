@@ -1,32 +1,40 @@
+import sys
+import time
 from pulp import LpProblem, LpVariable, LpMinimize, lpSum
 
-archivo = open("sets_prueba/200_30.txt", "r")
-elementos = set()
-subconjuntos = []
-for linea in archivo:
-    linea_stripped = linea.strip()
-    subset = linea_stripped.split(",")
-    subconjuntos.append(subset)
-    for e in subset:
-        elementos.add(e.strip())
-archivo.close()
+from utils import leer_archivo
 
-problema = LpProblem("Hitting set", LpMinimize)
+def programacion_lineal(jugadores, subconjuntos):
 
-elementos_seleccionados = {
-    elemento: LpVariable(
-        f"elemento_{elemento}", cat='Binary') for elemento in elementos
-}
+    problema = LpProblem("Hitting set", LpMinimize)
 
-problema += lpSum(elementos_seleccionados[e] for e in elementos)
+    jugadores_seleccionados = {
+        jugador: LpVariable(
+            f"jugador_{jugador}", cat='Binary') for jugador in jugadores
+    }
 
-for subset in subconjuntos:
-    problema += lpSum(elementos_seleccionados[e] for e in subset) >= 1
+    problema += lpSum(jugadores_seleccionados[e] for e in jugadores)
 
-problema.solve()
+    for subset in subconjuntos:
+        problema += lpSum(jugadores_seleccionados[e] for e in subset) >= 1
 
-print("Cantidad seleccionada:", problema.objective.value())
-print("Elementos seleccionados:")
-for e in elementos:
-    if elementos_seleccionados[e].value() == 1:
-        print(e)
+    problema.solve()
+
+    solucion = []
+    for e in jugadores:
+        if jugadores_seleccionados[e].value() == 1:
+            solucion.append(e)
+            
+    return solucion
+        
+if __name__ == '__main__':
+    jugadores, subconjuntos = leer_archivo(sys.argv[1])
+
+    start = time.time()
+    solucion = programacion_lineal(jugadores, subconjuntos)
+    end = time.time()
+
+    print("Tiempo de ejecucion:", end - start)
+    print("Cantidad seleccionada:", len(solucion))
+    print("Jugadores seleccionados:", solucion)
+
