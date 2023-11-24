@@ -45,7 +45,7 @@ def test_lineal_entera():
   resultados = []
   
   for cantidad in generados:
-    if cantidad > 400:
+    if cantidad > 300:
       return resultados
     jugadores, subconjuntos = leer_archivo(f'generados/{cantidad}.txt')
     
@@ -61,7 +61,7 @@ def test_backtracking():
   
   for cantidad in generados:
     if cantidad > 300:
-      break
+      return resultados
     jugadores, subconjuntos = leer_archivo(f'generados/{cantidad}.txt')
     
     start = time.time()
@@ -71,7 +71,7 @@ def test_backtracking():
     
   return resultados
 
-def lineal_relajada():
+def test_lineal_relajada():
   resultados = []
   
   for cantidad in generados:
@@ -101,6 +101,28 @@ def mostrar_grafico_cantidad_seleccionados(resultados_algoritmos):
   plt.ylabel('Jugadores seleccionados')
   plt.legend()
   plt.show()
+
+def comparacion_programacion_lineal():
+  entera = test_lineal_entera()
+  aprox = test_lineal_relajada()
+  
+  diferencias = []
+  for i in range(len(entera)):
+    diferencia = aprox[i][2] / entera[i][2]
+    print(f'Diferencia {entera[i][0]} periodistas: ', {diferencia})
+    print(f'    Entera {entera[i][2]} jugadores')
+    print(f'    Aproximacion {aprox[i][2]} jugadores')
+    diferencias.append(diferencia)
+    
+  print(f'Promedio diferencia {sum(diferencias) / len(diferencias)}')
+  print(f'Maxima diferencia {max(diferencias)} en la posicion {diferencias.index(max(diferencias))}')
+    
+  plt.plot([entera[i][0] for i in range(len(entera))], diferencia)
+  
+  plt.xlabel('Cantidad periodistas')
+  plt.ylabel('Cota de Aproximación')
+  plt.legend()
+  plt.show()
   
   
 def graficos_detallados():
@@ -112,7 +134,7 @@ def graficos_detallados():
   resultados.append((test_greedy_preciso(), f'Greedy preciso  (7 prom.)'))
   resultados.append((test_lineal_entera(), f'Lineal entera  (7 prom.)'))
   resultados.append((test_backtracking(), f'Backtracking (7 prom.)')) 
-  resultados.append((lineal_relajada(), f'Lineal relajada  (7 prom.)'))
+  resultados.append((test_lineal_relajada(), f'Lineal relajada  (7 prom.)'))
 
   plt.title('Todos los algoritmos (30 jugadores)')
   mostrar_grafico_cantidad_tiempo(resultados)
@@ -166,13 +188,12 @@ def graficos_detallados():
   plt.title('Greedys vs Lineal Relajada (30 jugadores)')
   mostrar_grafico_cantidad_seleccionados([resultados[0], resultados[1], resultados[4]])
   
-  
-  
-  
-
-  
 
 if __name__ == '__main__':
+
+  if sys.argv[1] == 'comparacion':
+    comparacion_programacion_lineal()
+    exit()
   
   if  sys.argv[1] == 'detallado':
     graficos_detallados()
@@ -193,7 +214,6 @@ if __name__ == '__main__':
     if 'greedy-r' in algoritmos or 'todos' in algoritmos:
       resultados.append((test_greedy_rapido(), f'Greedy rapido ({promedio_jugadores} prom.)'))
       
-    
     if 'greedy-p' in algoritmos or 'todos' in algoritmos:
       resultados.append((test_greedy_preciso(), f'Greedy preciso ({promedio_jugadores} prom.)'))
     
@@ -204,34 +224,13 @@ if __name__ == '__main__':
       resultados.append((test_backtracking(), f'Backtracking ({promedio_jugadores} prom.)'))
       
     if 'relajada' in algoritmos or 'todos' in algoritmos:
-      resultados.append((lineal_relajada(), f'Lineal relajada ({promedio_jugadores} prom.)'))
+      resultados.append((test_lineal_relajada(), f'Lineal relajada ({promedio_jugadores} prom.)'))
   
   plt.title(f'Comparativa de tiempo ({variedad_jugadores} jugadores)')
   mostrar_grafico_cantidad_tiempo(resultados)
   plt.title(f'Comparativa de seleccionados ({variedad_jugadores} jugadores)')
   mostrar_grafico_cantidad_seleccionados(resultados)
-  
-def lineal_relajada():
-  entera = test_lineal_entera()
-  aprox = lineal_relajada()
-  
-  diferencias = []
-  for i in range(len(entera)):
-    diferencia = aprox[i][2] / entera[i][2]
-    print(f'Diferencia {entera[i][0]} periodistas: ', {diferencia})
-    print(f'    Entera {entera[i][2]} jugadores')
-    print(f'    Aproximacion {aprox[i][2]} jugadores')
-    diferencias.append(diferencia)
-    
-  print(f'Promedio diferencia {sum(diferencia) / len(diferencia)}')
-  print(f'Maxima diferencia {max(diferencia)}')
-    
-  plt.plot([entera[i][0] for i in range(len(entera))], diferencia)
-  
-  plt.xlabel('Cantidad periodistas')
-  plt.ylabel('Cota de Aproximación')
-  plt.legend()
-  plt.show()
+
   
   
 

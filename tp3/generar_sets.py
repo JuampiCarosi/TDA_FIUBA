@@ -67,8 +67,6 @@ def armar_sets(variedad_jugadores, jugadores_prom_por_periodista):
         
     return generados
 
-
-
 if __name__ == '__main__':
     variedad_jugadores = int(sys.argv[1])
     jugadores_prom_por_periodista = int(sys.argv[2])

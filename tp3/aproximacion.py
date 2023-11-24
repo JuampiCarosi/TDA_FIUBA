@@ -1,4 +1,5 @@
-from pulp import LpProblem, LpVariable, LpMinimize, lpSum, LpContinuous, value, lpSum
+import time
+from pulp import LpProblem, LpVariable, LpMinimize, lpSum, value, lpSum
 import sys
 
 from utils import leer_archivo
@@ -7,7 +8,6 @@ def aproximacion(jugadores, subconjuntos):
     problema = LpProblem("Hitting set", LpMinimize)
 
     b = max(len(subset) for subset in subconjuntos)
-    print("b:", b)
 
     jugadores_seleccionados = {
         jugador: LpVariable(
@@ -23,7 +23,6 @@ def aproximacion(jugadores, subconjuntos):
     solucion = []
     for e in jugadores:
         if value(jugadores_seleccionados[e]) > 1/b:
-            print(value(jugadores_seleccionados[e]))
             solucion.append(e)
     return solucion
 
@@ -34,12 +33,12 @@ def main():
         return
     nombre_archivo = sys.argv[1]
     jugadores, subconjuntos = leer_archivo(nombre_archivo)
+    start = time.time()
     solucion = aproximacion(jugadores, subconjuntos)
+    end = time.time()
+    print("Tiempo de ejecucion:", end - start)
     print("Cantidad seleccionada:", len(solucion))
-    print("Jugadores seleccionados:")
-    for jugador in solucion:
-        print(jugador)
-
+    print("Jugadores seleccionados:", solucion)
 
 if __name__ == '__main__':
     main()  
