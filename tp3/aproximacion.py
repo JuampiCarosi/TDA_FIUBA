@@ -22,7 +22,7 @@ def aproximacion(jugadores, subconjuntos):
 
     solucion = []
     for e in jugadores:
-        if value(jugadores_seleccionados[e]) > 1/b:
+        if value(jugadores_seleccionados[e]) >= 1/b:
             solucion.append(e)
     return solucion
 

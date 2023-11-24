@@ -3,14 +3,11 @@ import time
 
 from utils import leer_archivo
 
-
 def es_valido(seleccionados, subconjuntos):
     for subset in subconjuntos:
         if not any(e in seleccionados for e in subset):
             return False
     return True
-
-
 
 def _backtracking(jugadores, subconjuntos, mejor_solucion, seleccionados = set(), i = 0):
     if i >= len(jugadores):

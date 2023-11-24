@@ -1,3 +1,4 @@
+import math
 import os
 import sys
 import time
@@ -60,7 +61,7 @@ def test_backtracking():
   resultados = []
   
   for cantidad in generados:
-    if cantidad > 300:
+    if cantidad > 400:
       return resultados
     jugadores, subconjuntos = leer_archivo(f'generados/{cantidad}.txt')
     
@@ -124,6 +125,36 @@ def comparacion_programacion_lineal():
   plt.legend()
   plt.show()
   
+  
+def raiz_b():
+  
+  resultados_totales = []
+  
+  for promedio in range(6, 31, 4):
+    resultados = []
+    
+    armar_sets(100, promedio)
+    
+    for test in generados:
+      if test > 300:
+        break
+      jugadores, subconjuntos = leer_archivo(f'generados/{test}.txt')
+      b = max(len(subset) for subset in subconjuntos)
+      entera = len(programacion_lineal(jugadores, subconjuntos))
+      relajada = len(aproximacion(jugadores, subconjuntos))
+      
+      print(f'Periodistas: {test}, promedio: {promedio}, b: {b}, raiz b: {math.sqrt(b)} relajada/entera: {relajada/entera}')
+      
+      resultados.append([promedio, test, b, entera, relajada])
+
+    plt.title(f'Periodistas vs Relajada/Entera (promedio {promedio})')
+    plt.plot([resultado[1] for resultado in resultados], [resultado[4]/resultado[3] for resultado in resultados], label=f'Relaja/Entera')
+    plt.plot([resultado[1] for resultado in resultados], [math.sqrt(resultado[2]) for resultado in resultados], label=f'Raiz b')
+    plt.show()
+    resultados_totales.extend(resultados)
+    
+    for resultado in resultados_totales:
+      print(f'Periodistas: {resultado[1]}, promedio: {resultado[0]}, b: {resultado[2]}, raiz b: {math.sqrt(resultado[2])} relajada/entera: {resultado[4]/resultado[3]}')
   
 def graficos_detallados():
   global generados
@@ -190,6 +221,10 @@ def graficos_detallados():
   
 
 if __name__ == '__main__':
+
+  if sys.argv[1] == 'raiz_b':
+    raiz_b()
+    exit()
 
   if sys.argv[1] == 'comparacion':
     comparacion_programacion_lineal()
