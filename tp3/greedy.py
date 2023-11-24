@@ -82,7 +82,7 @@ if __name__ == "__main__":
     start = time.time()
     solucion = greedy_preciso(jugadores, subconjuntos)
     end = time.time()
-    print("===  Greedy preciso  ===")
+    print("\n===  Greedy preciso  ===")
     print("Tiempo de ejecucion:", end - start)
     print("Cantidad seleccionada:", len(solucion))
     print("Jugadores seleccionados:", solucion)

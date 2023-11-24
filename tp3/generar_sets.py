@@ -1,3 +1,4 @@
+import os
 import random
 import sys
 
@@ -10,51 +11,50 @@ def leer_base_de_jugadores():
     archivo.close()
     return jugadores
 
-def armar_sets(cantidad_maxima_sets, jugadores):
-    for i in range(10, cantidad_maxima_sets + 1, 20):
-        archivo = open("sets_prueba/" + str(i) + ".txt", "w")
-        for j in range(i):
-            tamano_set = random.randint(3, 11)
-            jugadores_set = set()
-            for k in range(tamano_set):
-                jugador = random.choice(jugadores)
-                while jugador in jugadores_set:
-                    jugador = random.choice(jugadores)
-                jugadores_set.add(jugador)
-            linea_set = ','.join(jugadores_set) + '\n'
-            archivo.write(linea_set)
-        archivo.close()
+jugadores = leer_base_de_jugadores()
 
-def armar_sets_con_diferencia_de_cantidad_por_subset(cantidad_subsets, jugadores, minimo, rango_diferencia, repeticiones):
-    maximo = minimo + rango_diferencia
-    for i in range(repeticiones):
-        archivo = open("sets_prueba/" + str(cantidad_subsets) + "_" + str(maximo-minimo) + ".txt", "w")
-        for j in range(cantidad_subsets):
-            tamano_set = random.randint(minimo, maximo)
-            jugadores_set = set()
-            for k in range(tamano_set):
-                jugador = random.choice(jugadores)
-                while jugador in jugadores_set:
-                    jugador = random.choice(jugadores)
-                jugadores_set.add(jugador)
-            linea_set = ','.join(jugadores_set) + '\n'
-            archivo.write(linea_set)
-        archivo.close()
-        maximo -= rango_diferencia // repeticiones
-
-def main():
-    jugadores = leer_base_de_jugadores()
-    if len(sys.argv) > 2:
-        print("Uso: python generar_sets.py <cantidad_subsets> <repeticiones> <minimo> <rango_diferencia>")
-        armar_sets_con_diferencia_de_cantidad_por_subset(int(sys.argv[1]), jugadores, int(sys.argv[3]), int(sys.argv[4]), int(sys.argv[2]))
-        return
-    cantidad_maxima_sets = int(sys.argv[1])
-    armar_sets(cantidad_maxima_sets, jugadores)
-
-main()
-            
+def crear_set(cant_periodistas, jugadores_prom_por_periodista):
+    archivo = open("generados/" + str(cant_periodistas) + ".txt", "w")
+    for periodista in range(cant_periodistas):
+        cant_jugadores = round(jugadores_prom_por_periodista * random.randint(5, 15) / 10)
+        jugadores_set = set()
         
+        while len(jugadores_set) < cant_jugadores:
+            jugador = random.choice(jugadores)
+            jugadores_set.add(jugador)
+            
+        linea_set = ','.join(jugadores_set) + '\n'
+        archivo.write(linea_set)
+    archivo.close()
+    
+   
+def armar_sets(jugadores_prom_por_periodista):
+    for file in os.listdir("generados"):
+        os.remove("generados/" + file)
+
+    # 10 en 10 hasta 50 // 5
+    for i in range(10, 51, 10):
+       crear_set(i, jugadores_prom_por_periodista)
+    
+    # 25 en 25 hasta 100 // 2
+    for i in range(50, 101, 25):
+       crear_set(i, jugadores_prom_por_periodista)
+       
+    # 50 en 50 hasta 500 // 8
+    for i in range(100, 501, 50):
+       crear_set(i, jugadores_prom_por_periodista)
+       
+    # 100 en 100 hasta 1000 // 5
+    for i in range(500, 1001, 100):
+       crear_set(i, jugadores_prom_por_periodista)
+       
+    # 500 en 500 hasta 5000 // 8
+    for i in range(1000, 5001, 500):
+       crear_set(i, jugadores_prom_por_periodista)
 
 
 
-
+if __name__ == '__main__':
+    
+    jugadores_prom_por_periodista = int(sys.argv[1])
+    armar_sets(jugadores_prom_por_periodista)            

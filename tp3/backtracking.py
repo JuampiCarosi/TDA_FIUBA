@@ -12,7 +12,7 @@ def es_valido(seleccionados, subconjuntos):
 
 
 
-def backtracking(jugadores, subconjuntos, mejor_solucion, seleccionados = set(), i = 0):
+def _backtracking(jugadores, subconjuntos, mejor_solucion, seleccionados = set(), i = 0):
     if i >= len(jugadores):
         return
 
@@ -26,22 +26,25 @@ def backtracking(jugadores, subconjuntos, mejor_solucion, seleccionados = set(),
 
     seleccionados.add(jugadores[i])
     
-    backtracking(jugadores, subconjuntos, mejor_solucion,
+    _backtracking(jugadores, subconjuntos, mejor_solucion,
                             seleccionados, i + 1)
-
+    
     seleccionados.remove(jugadores[i])
     
-    backtracking(
+    _backtracking(
         jugadores, subconjuntos,mejor_solucion, seleccionados, i + 1)
 
 
+def backtracking(jugadores, subconjuntos):
+    mejor_solucion = []
+    _backtracking(jugadores, subconjuntos, mejor_solucion)
+    return mejor_solucion
 
 if __name__ == '__main__':
     jugadores, subconjuntos = leer_archivo(sys.argv[1])
 
-    solucion = []   
     start = time.time()
-    backtracking(jugadores, subconjuntos, solucion)
+    solucion = backtracking(jugadores, subconjuntos)
     end = time.time()
 
     print("Tiempo de ejecucion:", end - start)

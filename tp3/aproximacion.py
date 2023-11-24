@@ -1,40 +1,29 @@
 from pulp import LpProblem, LpVariable, LpMinimize, lpSum, LpContinuous, value, lpSum
 import sys
 
-def leer_subconjuntos_de_jugadores(nombre_archivo):
-    archivo = open(nombre_archivo, "r")
-    jugadores = set()
-    subconjuntos = []
-    for linea in archivo:
-        linea_stripped = linea.strip()
-        subset = linea_stripped.split(",")
-        subconjuntos.append(subset)
-        for e in subset:
-            jugadores.add(e.strip())
-    archivo.close()
-    return jugadores, subconjuntos
+from utils import leer_archivo
 
-def hitting_set_relajado(elementos, subconjuntos):
+def aproximacion(jugadores, subconjuntos):
     problema = LpProblem("Hitting set", LpMinimize)
 
     b = max(len(subset) for subset in subconjuntos)
     print("b:", b)
 
-    elementos_seleccionados = {
-        elemento: LpVariable(
-            f"elemento_{elemento}", lowBound=0, upBound=1, cat='Continuous') for elemento in elementos
+    jugadores_seleccionados = {
+        jugador: LpVariable(
+            f"jugador_{jugador}", lowBound=0, upBound=1, cat='Continuous') for jugador in jugadores
     }
 
-    problema += lpSum(elementos_seleccionados[e] for e in elementos)
+    problema += lpSum(jugadores_seleccionados[e] for e in jugadores)
 
     for subset in subconjuntos:
-        problema += lpSum(elementos_seleccionados[e] for e in subset) >= 1
+        problema += lpSum(jugadores_seleccionados[e] for e in subset) >= 1
     problema.solve()
 
     solucion = []
-    for e in elementos:
-        if value(elementos_seleccionados[e]) > 1/b:
-            print(value(elementos_seleccionados[e]))
+    for e in jugadores:
+        if value(jugadores_seleccionados[e]) > 1/b:
+            print(value(jugadores_seleccionados[e]))
             solucion.append(e)
     return solucion
 
@@ -44,13 +33,15 @@ def main():
         print("No se ingreso nombre de archivo")
         return
     nombre_archivo = sys.argv[1]
-    elementos, subconjuntos = leer_subconjuntos_de_jugadores(nombre_archivo)
-    solucion = hitting_set_relajado(elementos, subconjuntos)
+    jugadores, subconjuntos = leer_archivo(nombre_archivo)
+    solucion = aproximacion(jugadores, subconjuntos)
     print("Cantidad seleccionada:", len(solucion))
     print("Jugadores seleccionados:")
     for jugador in solucion:
         print(jugador)
 
-main()
+
+if __name__ == '__main__':
+    main()  
 
 
