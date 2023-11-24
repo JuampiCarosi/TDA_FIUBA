@@ -22,7 +22,7 @@ $ python -m pip install -U matplotlib
 Para correr alguno de los cuatro algoritmos se debe ingresar el siguiente comando:
 
 ```
-$ python <nombre_algoritmo> <ruta_archivo>
+$ python3 <nombre_algoritmo> <ruta_archivo>
 ```
 Los algoritmos posibles son:
 - backtracking.py
