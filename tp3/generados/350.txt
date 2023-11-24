@@ -1,350 +1,350 @@
-Ángel Di María,Pablo Aimar,Gabriel Batistuta,Daniel Passarella,Roberto Sensini,Gonzalo Higuaín
-Roberto Sensini,Juan Román Riquelme,Martín Palermo,Gabriel Batistuta,Roberto Ayala,Éver Banega,Daniel Passarella
-Éver Banega,Javier Mascherano,Nicolás Burdisso,Roberto Sensini,Esteban Cambiasso,Juan Pablo Sorín
-Maxi Rodríguez,Martín Palermo,Lionel Messi,Diego Maradona,Nicolás Otamendi,Ezequiel Lavezzi,Gabriel Batistuta,Ángel Di María
-Hernán Crespo,Maxi Rodríguez,Esteban Cambiasso,Alfredo Di Stéfano,Fernando Redondo,Carlos Tevez,Juan Román Riquelme,Mario Kempes,Roberto Ayala,Sergio Agüero,Claudio López,Daniel Passarella
-Roberto Sensini,Mario Kempes,Maxi Rodríguez,Sergio Agüero,Javier Zanetti,Ángel Di María,Ariel Ortega,Martín Palermo,Pablo Aimar,Éver Banega,Gonzalo Higuaín
-Daniel Passarella,Martín Palermo,Javier Saviola,Juan Román Riquelme,Roberto Sensini,Nicolás Otamendi
-Fernando Redondo,Nicolás Burdisso,Alfredo Di Stéfano,Hernán Crespo,Gabriel Batistuta,Juan Pablo Sorín,Éver Banega,Juan Román Riquelme,Nicolás Otamendi,Claudio Caniggia,Gonzalo Higuaín,Diego Maradona,Ezequiel Lavezzi,Martín Palermo,Carlos Tevez,Ángel Di María,Mario Kempes
-Gonzalo Higuaín,Juan Román Riquelme,Ariel Ortega,Ezequiel Lavezzi,Javier Saviola,Claudio López,Roberto Ayala,Lionel Messi,Gabriel Batistuta,Roberto Sensini
-Gabriel Batistuta,Roberto Sensini,Claudio Caniggia,Daniel Passarella,Maxi Rodríguez,Nicolás Burdisso,Sergio Agüero,Javier Saviola,Gonzalo Higuaín,Ángel Di María,Esteban Cambiasso,Lionel Messi,Éver Banega,Ezequiel Lavezzi
-Javier Saviola,Claudio López,Gabriel Batistuta,Esteban Cambiasso,Juan Román Riquelme,Mario Kempes,Fernando Redondo,Éver Banega,Lionel Messi,Alfredo Di Stéfano,Roberto Ayala,Hernán Crespo,Roberto Sensini
-Maxi Rodríguez,Javier Mascherano,Sergio Agüero,Lionel Messi,Ariel Ortega,Éver Banega,Hernán Crespo,Esteban Cambiasso,Diego Maradona,Gabriel Batistuta
-Pablo Aimar,Alfredo Di Stéfano,Javier Mascherano,Gabriel Batistuta,Mario Kempes,Juan Pablo Sorín
-Claudio López,Maxi Rodríguez,Ángel Di María,Hernán Crespo,Lionel Messi,Juan Pablo Sorín,Javier Zanetti,Esteban Cambiasso,Gabriel Batistuta,Ezequiel Lavezzi,Ariel Ortega,Martín Palermo,Juan Román Riquelme,Claudio Caniggia,Éver Banega,Javier Mascherano,Daniel Passarella
-Claudio Caniggia,Carlos Tevez,Hernán Crespo,Diego Maradona,Roberto Ayala,Javier Saviola,Maxi Rodríguez,Daniel Passarella,Ezequiel Lavezzi,Claudio López,Éver Banega
-Ángel Di María,Fernando Redondo,Juan Pablo Sorín,Nicolás Burdisso,Ariel Ortega,Éver Banega,Hernán Crespo,Claudio Caniggia,Mario Kempes,Pablo Aimar
-Ángel Di María,Diego Maradona,Nicolás Otamendi,Mario Kempes,Alfredo Di Stéfano,Nicolás Burdisso,Javier Zanetti,Javier Mascherano,Gabriel Batistuta,Éver Banega,Esteban Cambiasso,Pablo Aimar,Roberto Ayala,Claudio López,Daniel Passarella,Ariel Ortega,Sergio Agüero,Martín Palermo
-Diego Maradona,Ezequiel Lavezzi,Nicolás Otamendi,Pablo Aimar,Ángel Di María,Mario Kempes,Claudio López,Lionel Messi,Daniel Passarella,Roberto Sensini,Esteban Cambiasso,Sergio Agüero,Gabriel Batistuta,Juan Pablo Sorín,Maxi Rodríguez,Javier Mascherano,Gonzalo Higuaín
-Ángel Di María,Pablo Aimar,Roberto Ayala,Gabriel Batistuta,Alfredo Di Stéfano,Lionel Messi,Maxi Rodríguez,Juan Román Riquelme,Diego Maradona,Daniel Passarella,Nicolás Burdisso,Éver Banega,Martín Palermo
-Ezequiel Lavezzi,Ariel Ortega,Roberto Ayala,Javier Zanetti,Gonzalo Higuaín,Diego Maradona,Carlos Tevez,Éver Banega,Fernando Redondo,Nicolás Burdisso,Esteban Cambiasso,Hernán Crespo
-Roberto Sensini,Juan Pablo Sorín,Claudio López,Hernán Crespo,Ariel Ortega,Alfredo Di Stéfano,Javier Saviola,Gonzalo Higuaín,Daniel Passarella,Nicolás Burdisso,Diego Maradona,Gabriel Batistuta
-Roberto Ayala,Juan Pablo Sorín,Ariel Ortega,Javier Mascherano,Maxi Rodríguez,Nicolás Otamendi
-Gabriel Batistuta,Carlos Tevez,Juan Román Riquelme,Martín Palermo,Nicolás Burdisso,Claudio Caniggia,Esteban Cambiasso,Javier Saviola,Javier Zanetti,Pablo Aimar,Ángel Di María,Claudio López,Lionel Messi
-Sergio Agüero,Ángel Di María,Roberto Sensini,Hernán Crespo,Claudio López,Lionel Messi,Carlos Tevez,Esteban Cambiasso,Nicolás Otamendi,Ariel Ortega,Gabriel Batistuta,Nicolás Burdisso,Javier Mascherano,Diego Maradona,Javier Zanetti,Martín Palermo,Gonzalo Higuaín,Pablo Aimar
-Hernán Crespo,Juan Pablo Sorín,Claudio Caniggia,Éver Banega,Carlos Tevez,Ariel Ortega,Pablo Aimar
-Nicolás Burdisso,Claudio Caniggia,Ángel Di María,Gonzalo Higuaín,Alfredo Di Stéfano,Juan Pablo Sorín,Javier Saviola,Maxi Rodríguez,Sergio Agüero,Pablo Aimar,Roberto Sensini,Ezequiel Lavezzi
-Pablo Aimar,Esteban Cambiasso,Gonzalo Higuaín,Maxi Rodríguez,Mario Kempes,Ariel Ortega,Éver Banega,Javier Zanetti,Javier Mascherano,Lionel Messi,Javier Saviola,Martín Palermo,Sergio Agüero,Nicolás Burdisso,Juan Román Riquelme,Claudio López,Roberto Ayala,Daniel Passarella
-Diego Maradona,Roberto Ayala,Éver Banega,Gabriel Batistuta,Nicolás Burdisso,Pablo Aimar
-Javier Zanetti,Ezequiel Lavezzi,Nicolás Burdisso,Claudio Caniggia,Ariel Ortega,Carlos Tevez,Daniel Passarella,Éver Banega
-Roberto Sensini,Gonzalo Higuaín,Diego Maradona,Daniel Passarella,Ángel Di María,Alfredo Di Stéfano,Hernán Crespo,Juan Román Riquelme,Carlos Tevez,Fernando Redondo
-Claudio López,Alfredo Di Stéfano,Ángel Di María,Juan Pablo Sorín,Lionel Messi,Mario Kempes,Esteban Cambiasso,Javier Saviola,Gonzalo Higuaín,Ezequiel Lavezzi,Gabriel Batistuta,Hernán Crespo,Daniel Passarella,Pablo Aimar,Diego Maradona,Ariel Ortega,Javier Zanetti,Martín Palermo
-Nicolás Burdisso,Esteban Cambiasso,Mario Kempes,Carlos Tevez,Ariel Ortega,Nicolás Otamendi,Maxi Rodríguez,Martín Palermo,Javier Zanetti,Roberto Sensini
-Javier Zanetti,Pablo Aimar,Hernán Crespo,Diego Maradona,Nicolás Otamendi,Carlos Tevez,Roberto Sensini,Maxi Rodríguez,Éver Banega,Roberto Ayala,Mario Kempes,Javier Saviola,Ezequiel Lavezzi,Juan Román Riquelme,Javier Mascherano,Martín Palermo
-Javier Mascherano,Javier Saviola,Claudio Caniggia,Maxi Rodríguez,Martín Palermo,Gabriel Batistuta
-Juan Román Riquelme,Nicolás Burdisso,Pablo Aimar,Maxi Rodríguez,Claudio Caniggia,Nicolás Otamendi,Javier Saviola,Lionel Messi,Gabriel Batistuta,Martín Palermo,Javier Zanetti,Hernán Crespo,Diego Maradona,Éver Banega,Alfredo Di Stéfano,Javier Mascherano,Mario Kempes,Ángel Di María
-Martín Palermo,Juan Román Riquelme,Hernán Crespo,Pablo Aimar,Diego Maradona,Daniel Passarella,Mario Kempes,Claudio Caniggia,Nicolás Otamendi,Juan Pablo Sorín,Roberto Ayala
-Ariel Ortega,Diego Maradona,Alfredo Di Stéfano,Ángel Di María,Juan Pablo Sorín,Nicolás Burdisso,Hernán Crespo,Pablo Aimar,Nicolás Otamendi,Javier Mascherano,Juan Román Riquelme,Roberto Ayala
-Mario Kempes,Claudio López,Esteban Cambiasso,Javier Zanetti,Daniel Passarella,Sergio Agüero,Pablo Aimar,Nicolás Otamendi
-Juan Pablo Sorín,Daniel Passarella,Martín Palermo,Claudio Caniggia,Esteban Cambiasso,Roberto Sensini,Gonzalo Higuaín,Carlos Tevez,Sergio Agüero,Javier Saviola,Diego Maradona,Éver Banega
-Éver Banega,Daniel Passarella,Claudio López,Ariel Ortega,Nicolás Otamendi,Lionel Messi,Alfredo Di Stéfano,Nicolás Burdisso,Carlos Tevez,Diego Maradona,Sergio Agüero
-Sergio Agüero,Roberto Sensini,Hernán Crespo,Alfredo Di Stéfano,Ezequiel Lavezzi,Lionel Messi,Esteban Cambiasso,Ariel Ortega,Javier Mascherano,Claudio López,Claudio Caniggia,Maxi Rodríguez,Gabriel Batistuta,Ángel Di María,Javier Saviola,Diego Maradona,Fernando Redondo,Martín Palermo
-Javier Mascherano,Roberto Sensini,Mario Kempes,Claudio López,Ezequiel Lavezzi,Esteban Cambiasso,Roberto Ayala,Gabriel Batistuta,Javier Zanetti,Lionel Messi,Sergio Agüero,Éver Banega
-Ángel Di María,Ezequiel Lavezzi,Javier Zanetti,Javier Saviola,Pablo Aimar,Gabriel Batistuta,Mario Kempes,Juan Pablo Sorín,Éver Banega,Fernando Redondo,Maxi Rodríguez,Sergio Agüero,Lionel Messi,Nicolás Otamendi,Daniel Passarella,Diego Maradona,Carlos Tevez,Hernán Crespo
-Ariel Ortega,Diego Maradona,Ángel Di María,Fernando Redondo,Mario Kempes,Gonzalo Higuaín,Alfredo Di Stéfano,Éver Banega
-Mario Kempes,Maxi Rodríguez,Gonzalo Higuaín,Gabriel Batistuta,Ariel Ortega,Roberto Sensini,Fernando Redondo,Javier Saviola,Juan Pablo Sorín,Sergio Agüero,Nicolás Otamendi,Nicolás Burdisso,Hernán Crespo,Juan Román Riquelme,Esteban Cambiasso,Ángel Di María,Pablo Aimar
-Roberto Ayala,Lionel Messi,Juan Román Riquelme,Carlos Tevez,Ángel Di María,Javier Zanetti,Fernando Redondo,Roberto Sensini,Nicolás Otamendi,Nicolás Burdisso,Mario Kempes,Pablo Aimar
-Roberto Ayala,Ángel Di María,Hernán Crespo,Maxi Rodríguez,Nicolás Burdisso,Juan Román Riquelme,Claudio Caniggia,Daniel Passarella,Juan Pablo Sorín,Sergio Agüero,Javier Saviola,Gabriel Batistuta,Lionel Messi
-Nicolás Burdisso,Daniel Passarella,Roberto Ayala,Diego Maradona,Juan Pablo Sorín,Esteban Cambiasso,Sergio Agüero,Ezequiel Lavezzi,Roberto Sensini,Nicolás Otamendi,Javier Zanetti,Claudio López,Claudio Caniggia
-Éver Banega,Ariel Ortega,Daniel Passarella,Roberto Sensini,Juan Román Riquelme,Gabriel Batistuta,Roberto Ayala,Diego Maradona,Javier Saviola,Martín Palermo,Hernán Crespo,Nicolás Burdisso
-Claudio López,Juan Román Riquelme,Martín Palermo,Maxi Rodríguez,Daniel Passarella,Sergio Agüero,Nicolás Otamendi,Nicolás Burdisso,Roberto Ayala,Claudio Caniggia,Javier Zanetti,Hernán Crespo,Alfredo Di Stéfano,Roberto Sensini,Gabriel Batistuta,Diego Maradona,Ángel Di María
-Mario Kempes,Nicolás Otamendi,Éver Banega,Nicolás Burdisso,Diego Maradona,Javier Mascherano,Gonzalo Higuaín,Maxi Rodríguez,Esteban Cambiasso,Fernando Redondo,Gabriel Batistuta,Ángel Di María,Sergio Agüero,Claudio López,Juan Román Riquelme,Javier Zanetti
-Roberto Sensini,Juan Pablo Sorín,Nicolás Otamendi,Martín Palermo,Esteban Cambiasso,Ariel Ortega,Nicolás Burdisso
-Gonzalo Higuaín,Roberto Ayala,Javier Saviola,Sergio Agüero,Carlos Tevez,Javier Zanetti,Esteban Cambiasso,Claudio López,Ezequiel Lavezzi,Alfredo Di Stéfano,Fernando Redondo,Diego Maradona,Éver Banega,Roberto Sensini
-Diego Maradona,Claudio Caniggia,Javier Zanetti,Maxi Rodríguez,Esteban Cambiasso,Sergio Agüero,Éver Banega,Lionel Messi,Carlos Tevez,Javier Mascherano,Roberto Sensini,Gabriel Batistuta,Fernando Redondo
-Martín Palermo,Maxi Rodríguez,Nicolás Otamendi,Roberto Sensini,Hernán Crespo,Juan Pablo Sorín,Fernando Redondo
-Ezequiel Lavezzi,Éver Banega,Maxi Rodríguez,Sergio Agüero,Martín Palermo,Pablo Aimar,Juan Román Riquelme,Ángel Di María,Mario Kempes,Fernando Redondo,Javier Saviola,Daniel Passarella,Claudio Caniggia,Claudio López,Hernán Crespo,Lionel Messi,Javier Zanetti
-Hernán Crespo,Ángel Di María,Javier Mascherano,Esteban Cambiasso,Javier Zanetti,Gabriel Batistuta,Claudio Caniggia,Lionel Messi
-Javier Mascherano,Daniel Passarella,Claudio López,Nicolás Burdisso,Javier Zanetti,Sergio Agüero,Fernando Redondo,Juan Román Riquelme,Juan Pablo Sorín,Éver Banega,Javier Saviola,Alfredo Di Stéfano,Hernán Crespo,Nicolás Otamendi,Pablo Aimar,Gabriel Batistuta,Lionel Messi
-Pablo Aimar,Daniel Passarella,Sergio Agüero,Gabriel Batistuta,Alfredo Di Stéfano,Lionel Messi,Juan Pablo Sorín,Juan Román Riquelme,Ariel Ortega,Nicolás Otamendi,Ezequiel Lavezzi,Claudio Caniggia,Carlos Tevez,Esteban Cambiasso,Hernán Crespo,Javier Mascherano
-Éver Banega,Martín Palermo,Mario Kempes,Daniel Passarella,Ángel Di María,Sergio Agüero,Nicolás Burdisso,Carlos Tevez,Gonzalo Higuaín,Javier Saviola,Juan Román Riquelme,Pablo Aimar,Esteban Cambiasso,Fernando Redondo,Lionel Messi,Diego Maradona
-Roberto Ayala,Martín Palermo,Sergio Agüero,Ariel Ortega,Fernando Redondo,Ángel Di María,Javier Mascherano,Lionel Messi,Alfredo Di Stéfano,Daniel Passarella,Nicolás Burdisso,Esteban Cambiasso,Claudio Caniggia,Diego Maradona,Pablo Aimar,Mario Kempes,Roberto Sensini
-Fernando Redondo,Alfredo Di Stéfano,Claudio López,Daniel Passarella,Juan Pablo Sorín,Ezequiel Lavezzi,Gabriel Batistuta,Javier Mascherano,Mario Kempes,Esteban Cambiasso,Ángel Di María,Gonzalo Higuaín
-Juan Pablo Sorín,Javier Zanetti,Gonzalo Higuaín,Martín Palermo,Juan Román Riquelme,Lionel Messi,Pablo Aimar,Ezequiel Lavezzi,Éver Banega,Daniel Passarella,Javier Saviola,Carlos Tevez,Nicolás Otamendi
-Carlos Tevez,Daniel Passarella,Hernán Crespo,Nicolás Burdisso,Javier Zanetti,Mario Kempes,Claudio López,Ángel Di María,Roberto Sensini,Roberto Ayala,Diego Maradona,Maxi Rodríguez,Alfredo Di Stéfano,Esteban Cambiasso,Éver Banega,Gabriel Batistuta
-Claudio López,Nicolás Burdisso,Gabriel Batistuta,Javier Saviola,Ángel Di María,Fernando Redondo,Carlos Tevez,Roberto Ayala,Nicolás Otamendi,Sergio Agüero,Javier Zanetti,Roberto Sensini,Hernán Crespo,Diego Maradona,Ezequiel Lavezzi,Claudio Caniggia
-Daniel Passarella,Carlos Tevez,Nicolás Burdisso,Ángel Di María,Gabriel Batistuta,Alfredo Di Stéfano,Esteban Cambiasso,Gonzalo Higuaín,Javier Mascherano,Martín Palermo,Sergio Agüero,Javier Saviola,Diego Maradona,Ezequiel Lavezzi,Mario Kempes,Nicolás Otamendi,Pablo Aimar
-Martín Palermo,Maxi Rodríguez,Nicolás Otamendi,Ariel Ortega,Mario Kempes,Esteban Cambiasso,Ángel Di María,Éver Banega,Roberto Ayala,Hernán Crespo,Ezequiel Lavezzi
-Roberto Sensini,Fernando Redondo,Daniel Passarella,Esteban Cambiasso,Lionel Messi,Gabriel Batistuta,Javier Saviola,Hernán Crespo,Claudio López,Éver Banega
-Ángel Di María,Ezequiel Lavezzi,Maxi Rodríguez,Sergio Agüero,Fernando Redondo,Lionel Messi,Javier Zanetti,Éver Banega,Martín Palermo,Gabriel Batistuta,Nicolás Burdisso,Juan Pablo Sorín,Claudio López,Carlos Tevez,Hernán Crespo,Javier Saviola,Juan Román Riquelme,Ariel Ortega
-Javier Saviola,Hernán Crespo,Éver Banega,Gonzalo Higuaín,Esteban Cambiasso,Javier Mascherano,Martín Palermo,Lionel Messi,Fernando Redondo,Maxi Rodríguez,Ariel Ortega,Roberto Sensini,Daniel Passarella,Mario Kempes,Roberto Ayala,Nicolás Otamendi,Sergio Agüero,Javier Zanetti
-Carlos Tevez,Esteban Cambiasso,Javier Mascherano,Éver Banega,Claudio López,Roberto Sensini,Nicolás Burdisso,Hernán Crespo,Alfredo Di Stéfano,Maxi Rodríguez,Daniel Passarella,Martín Palermo,Sergio Agüero,Juan Pablo Sorín
-Juan Román Riquelme,Fernando Redondo,Javier Zanetti,Pablo Aimar,Maxi Rodríguez,Daniel Passarella
-Esteban Cambiasso,Ezequiel Lavezzi,Ariel Ortega,Javier Saviola,Maxi Rodríguez,Claudio Caniggia,Nicolás Burdisso,Gabriel Batistuta,Javier Mascherano,Sergio Agüero
-Nicolás Otamendi,Lionel Messi,Ezequiel Lavezzi,Carlos Tevez,Roberto Ayala,Diego Maradona,Hernán Crespo,Fernando Redondo,Alfredo Di Stéfano,Éver Banega,Mario Kempes
-Nicolás Otamendi,Juan Román Riquelme,Nicolás Burdisso,Lionel Messi,Ángel Di María,Maxi Rodríguez
-Lionel Messi,Sergio Agüero,Alfredo Di Stéfano,Juan Román Riquelme,Nicolás Burdisso,Mario Kempes,Diego Maradona,Nicolás Otamendi
-Gonzalo Higuaín,Carlos Tevez,Éver Banega,Ezequiel Lavezzi,Ariel Ortega,Lionel Messi,Fernando Redondo,Ángel Di María,Javier Mascherano,Diego Maradona,Javier Zanetti,Alfredo Di Stéfano,Sergio Agüero,Javier Saviola,Roberto Sensini,Daniel Passarella,Hernán Crespo,Claudio López
-Esteban Cambiasso,Nicolás Otamendi,Roberto Ayala,Pablo Aimar,Carlos Tevez,Ángel Di María,Juan Pablo Sorín,Ezequiel Lavezzi,Fernando Redondo,Claudio López,Mario Kempes,Ariel Ortega,Éver Banega
-Claudio Caniggia,Ángel Di María,Sergio Agüero,Martín Palermo,Juan Román Riquelme,Maxi Rodríguez,Éver Banega,Pablo Aimar,Esteban Cambiasso,Nicolás Otamendi,Alfredo Di Stéfano,Javier Saviola,Hernán Crespo,Nicolás Burdisso,Claudio López,Juan Pablo Sorín
-Juan Román Riquelme,Pablo Aimar,Juan Pablo Sorín,Fernando Redondo,Claudio Caniggia,Javier Zanetti
-Roberto Ayala,Ángel Di María,Pablo Aimar,Lionel Messi,Mario Kempes,Juan Pablo Sorín,Hernán Crespo,Nicolás Burdisso,Javier Saviola,Claudio López,Juan Román Riquelme,Claudio Caniggia,Javier Zanetti
-Maxi Rodríguez,Alfredo Di Stéfano,Diego Maradona,Gonzalo Higuaín,Carlos Tevez,Hernán Crespo,Javier Zanetti,Claudio López,Nicolás Otamendi,Martín Palermo,Nicolás Burdisso,Gabriel Batistuta,Roberto Ayala,Mario Kempes
-Pablo Aimar,Mario Kempes,Javier Saviola,Gonzalo Higuaín,Javier Mascherano,Maxi Rodríguez,Ariel Ortega,Claudio Caniggia,Carlos Tevez,Martín Palermo,Javier Zanetti,Diego Maradona
-Esteban Cambiasso,Éver Banega,Maxi Rodríguez,Sergio Agüero,Juan Pablo Sorín,Ariel Ortega,Martín Palermo,Lionel Messi,Gabriel Batistuta,Diego Maradona,Claudio Caniggia
-Ángel Di María,Ariel Ortega,Juan Pablo Sorín,Juan Román Riquelme,Javier Saviola,Daniel Passarella,Maxi Rodríguez,Gabriel Batistuta,Claudio López,Sergio Agüero,Martín Palermo,Javier Zanetti,Carlos Tevez,Roberto Ayala,Diego Maradona,Nicolás Burdisso
-Juan Pablo Sorín,Javier Zanetti,Fernando Redondo,Ángel Di María,Nicolás Burdisso,Daniel Passarella,Javier Saviola,Maxi Rodríguez
-Daniel Passarella,Claudio López,Ezequiel Lavezzi,Sergio Agüero,Ariel Ortega,Javier Saviola,Javier Zanetti,Gonzalo Higuaín,Roberto Ayala,Alfredo Di Stéfano,Roberto Sensini,Lionel Messi,Ángel Di María,Maxi Rodríguez,Juan Pablo Sorín,Javier Mascherano
-Ángel Di María,Fernando Redondo,Gabriel Batistuta,Maxi Rodríguez,Javier Saviola,Martín Palermo,Gonzalo Higuaín,Éver Banega,Javier Zanetti,Ezequiel Lavezzi,Mario Kempes
-Lionel Messi,Claudio Caniggia,Martín Palermo,Claudio López,Gonzalo Higuaín,Carlos Tevez,Gabriel Batistuta,Javier Zanetti,Nicolás Burdisso,Javier Mascherano,Roberto Sensini,Daniel Passarella,Maxi Rodríguez
-Pablo Aimar,Esteban Cambiasso,Diego Maradona,Sergio Agüero,Mario Kempes,Nicolás Burdisso
-Maxi Rodríguez,Claudio López,Juan Román Riquelme,Javier Saviola,Gonzalo Higuaín,Roberto Sensini,Juan Pablo Sorín,Diego Maradona,Sergio Agüero,Javier Zanetti,Éver Banega,Nicolás Otamendi,Ángel Di María,Fernando Redondo
-Roberto Ayala,Hernán Crespo,Ariel Ortega,Nicolás Otamendi,Claudio López,Javier Mascherano,Maxi Rodríguez,Fernando Redondo,Carlos Tevez,Martín Palermo,Nicolás Burdisso,Éver Banega,Gonzalo Higuaín,Daniel Passarella,Roberto Sensini,Juan Román Riquelme,Alfredo Di Stéfano
-Martín Palermo,Ezequiel Lavezzi,Maxi Rodríguez,Fernando Redondo,Esteban Cambiasso,Gabriel Batistuta,Roberto Sensini,Claudio López,Nicolás Otamendi,Mario Kempes
-Javier Zanetti,Ariel Ortega,Maxi Rodríguez,Éver Banega,Pablo Aimar,Ezequiel Lavezzi,Daniel Passarella
-Mario Kempes,Roberto Sensini,Javier Saviola,Ángel Di María,Ariel Ortega,Javier Zanetti,Javier Mascherano,Sergio Agüero
-Juan Pablo Sorín,Ángel Di María,Esteban Cambiasso,Gabriel Batistuta,Pablo Aimar,Fernando Redondo,Ariel Ortega
-Claudio Caniggia,Sergio Agüero,Maxi Rodríguez,Hernán Crespo,Ezequiel Lavezzi,Ariel Ortega,Mario Kempes,Juan Román Riquelme,Diego Maradona,Lionel Messi,Gonzalo Higuaín
-Mario Kempes,Fernando Redondo,Javier Zanetti,Ariel Ortega,Hernán Crespo,Roberto Sensini,Gonzalo Higuaín,Roberto Ayala,Claudio Caniggia,Javier Mascherano,Daniel Passarella,Juan Pablo Sorín,Gabriel Batistuta,Ángel Di María,Diego Maradona,Martín Palermo,Maxi Rodríguez,Lionel Messi
-Éver Banega,Javier Saviola,Ángel Di María,Javier Zanetti,Juan Pablo Sorín,Maxi Rodríguez,Gabriel Batistuta,Sergio Agüero,Nicolás Otamendi,Alfredo Di Stéfano,Ezequiel Lavezzi,Daniel Passarella,Pablo Aimar
-Lionel Messi,Ángel Di María,Diego Maradona,Esteban Cambiasso,Juan Pablo Sorín,Fernando Redondo,Gabriel Batistuta,Carlos Tevez,Roberto Sensini,Alfredo Di Stéfano,Roberto Ayala,Javier Mascherano,Mario Kempes
-Nicolás Otamendi,Ezequiel Lavezzi,Juan Román Riquelme,Javier Zanetti,Lionel Messi,Ángel Di María,Juan Pablo Sorín,Fernando Redondo,Alfredo Di Stéfano,Hernán Crespo,Esteban Cambiasso,Ariel Ortega,Claudio Caniggia,Javier Mascherano,Roberto Ayala,Nicolás Burdisso
-Claudio López,Gabriel Batistuta,Javier Saviola,Ángel Di María,Javier Zanetti,Carlos Tevez,Roberto Ayala,Roberto Sensini
-Maxi Rodríguez,Carlos Tevez,Daniel Passarella,Ezequiel Lavezzi,Alfredo Di Stéfano,Javier Zanetti,Juan Pablo Sorín
-Ezequiel Lavezzi,Éver Banega,Claudio Caniggia,Pablo Aimar,Juan Román Riquelme,Ariel Ortega,Javier Mascherano,Hernán Crespo,Maxi Rodríguez,Juan Pablo Sorín,Sergio Agüero,Esteban Cambiasso,Lionel Messi,Nicolás Otamendi,Javier Saviola,Martín Palermo,Javier Zanetti,Alfredo Di Stéfano
-Gabriel Batistuta,Juan Román Riquelme,Sergio Agüero,Pablo Aimar,Javier Saviola,Carlos Tevez,Roberto Sensini,Roberto Ayala,Fernando Redondo,Éver Banega,Claudio López,Javier Zanetti,Nicolás Burdisso,Javier Mascherano,Ariel Ortega,Martín Palermo
-Gonzalo Higuaín,Juan Pablo Sorín,Martín Palermo,Esteban Cambiasso,Nicolás Otamendi,Javier Zanetti,Daniel Passarella
-Alfredo Di Stéfano,Javier Mascherano,Ángel Di María,Diego Maradona,Ariel Ortega,Javier Zanetti
-Ezequiel Lavezzi,Lionel Messi,Claudio López,Hernán Crespo,Nicolás Otamendi,Esteban Cambiasso,Fernando Redondo,Sergio Agüero
-Javier Saviola,Fernando Redondo,Ariel Ortega,Lionel Messi,Alfredo Di Stéfano,Claudio López,Hernán Crespo,Claudio Caniggia,Juan Román Riquelme,Sergio Agüero,Diego Maradona,Gabriel Batistuta,Roberto Ayala
-Daniel Passarella,Diego Maradona,Lionel Messi,Juan Román Riquelme,Alfredo Di Stéfano,Gabriel Batistuta,Maxi Rodríguez,Mario Kempes
-Sergio Agüero,Éver Banega,Claudio Caniggia,Carlos Tevez,Lionel Messi,Esteban Cambiasso,Javier Zanetti,Nicolás Otamendi,Fernando Redondo,Juan Román Riquelme,Martín Palermo,Mario Kempes
-Diego Maradona,Javier Mascherano,Javier Saviola,Gabriel Batistuta,Mario Kempes,Nicolás Burdisso,Juan Román Riquelme,Fernando Redondo,Roberto Sensini,Hernán Crespo,Juan Pablo Sorín
-Diego Maradona,Nicolás Burdisso,Carlos Tevez,Alfredo Di Stéfano,Nicolás Otamendi,Fernando Redondo,Juan Pablo Sorín,Pablo Aimar,Roberto Sensini,Javier Mascherano,Hernán Crespo,Maxi Rodríguez,Javier Zanetti,Roberto Ayala
-Carlos Tevez,Juan Pablo Sorín,Nicolás Otamendi,Nicolás Burdisso,Ángel Di María,Roberto Sensini,Javier Zanetti,Alfredo Di Stéfano,Juan Román Riquelme,Maxi Rodríguez,Diego Maradona,Hernán Crespo,Claudio Caniggia,Fernando Redondo,Pablo Aimar,Esteban Cambiasso,Ariel Ortega
-Martín Palermo,Sergio Agüero,Javier Mascherano,Pablo Aimar,Lionel Messi,Éver Banega,Gabriel Batistuta,Gonzalo Higuaín,Esteban Cambiasso,Diego Maradona,Javier Zanetti,Maxi Rodríguez,Alfredo Di Stéfano,Carlos Tevez,Nicolás Burdisso,Roberto Sensini
-Claudio Caniggia,Nicolás Otamendi,Sergio Agüero,Juan Román Riquelme,Maxi Rodríguez,Mario Kempes,Gonzalo Higuaín,Javier Mascherano,Ezequiel Lavezzi,Diego Maradona,Lionel Messi,Ariel Ortega,Carlos Tevez
-Pablo Aimar,Sergio Agüero,Mario Kempes,Javier Saviola,Fernando Redondo,Nicolás Otamendi,Roberto Sensini,Maxi Rodríguez,Gonzalo Higuaín,Daniel Passarella,Ariel Ortega,Lionel Messi,Esteban Cambiasso,Gabriel Batistuta,Javier Mascherano,Éver Banega,Juan Pablo Sorín
-Pablo Aimar,Claudio López,Juan Pablo Sorín,Alfredo Di Stéfano,Éver Banega,Juan Román Riquelme,Javier Zanetti,Carlos Tevez,Lionel Messi,Gabriel Batistuta,Roberto Sensini,Ezequiel Lavezzi,Javier Mascherano,Nicolás Otamendi,Hernán Crespo,Javier Saviola,Martín Palermo
-Pablo Aimar,Gabriel Batistuta,Diego Maradona,Alfredo Di Stéfano,Ariel Ortega,Juan Román Riquelme,Martín Palermo,Roberto Sensini
-Javier Mascherano,Claudio López,Javier Saviola,Claudio Caniggia,Martín Palermo,Daniel Passarella,Esteban Cambiasso,Carlos Tevez,Fernando Redondo,Éver Banega,Gabriel Batistuta,Juan Román Riquelme,Mario Kempes
-Juan Pablo Sorín,Lionel Messi,Maxi Rodríguez,Nicolás Otamendi,Javier Zanetti,Claudio Caniggia,Ezequiel Lavezzi,Hernán Crespo,Roberto Sensini,Mario Kempes,Alfredo Di Stéfano,Juan Román Riquelme,Esteban Cambiasso,Javier Saviola,Diego Maradona,Roberto Ayala,Ariel Ortega
-Alfredo Di Stéfano,Gonzalo Higuaín,Ariel Ortega,Nicolás Burdisso,Fernando Redondo,Claudio Caniggia,Diego Maradona,Carlos Tevez
-Hernán Crespo,Claudio López,Alfredo Di Stéfano,Daniel Passarella,Diego Maradona,Gonzalo Higuaín,Claudio Caniggia,Lionel Messi,Juan Román Riquelme,Carlos Tevez
-Maxi Rodríguez,Sergio Agüero,Claudio Caniggia,Javier Zanetti,Juan Pablo Sorín,Fernando Redondo,Pablo Aimar,Javier Mascherano,Roberto Ayala,Éver Banega,Ezequiel Lavezzi,Daniel Passarella
-Javier Saviola,Alfredo Di Stéfano,Daniel Passarella,Ángel Di María,Carlos Tevez,Nicolás Otamendi,Claudio Caniggia,Nicolás Burdisso,Pablo Aimar,Javier Mascherano,Ezequiel Lavezzi,Esteban Cambiasso,Gonzalo Higuaín
-Lionel Messi,Daniel Passarella,Éver Banega,Claudio Caniggia,Hernán Crespo,Javier Saviola
-Hernán Crespo,Martín Palermo,Pablo Aimar,Gonzalo Higuaín,Juan Román Riquelme,Carlos Tevez,Javier Zanetti,Lionel Messi,Nicolás Burdisso,Alfredo Di Stéfano,Ezequiel Lavezzi
-Roberto Sensini,Claudio Caniggia,Pablo Aimar,Lionel Messi,Ariel Ortega,Maxi Rodríguez,Sergio Agüero,Daniel Passarella,Juan Román Riquelme,Éver Banega,Javier Mascherano,Hernán Crespo,Esteban Cambiasso,Juan Pablo Sorín,Alfredo Di Stéfano,Javier Zanetti,Claudio López,Nicolás Burdisso
-Daniel Passarella,Fernando Redondo,Roberto Ayala,Javier Saviola,Juan Pablo Sorín,Claudio Caniggia,Hernán Crespo,Javier Zanetti,Claudio López,Lionel Messi,Pablo Aimar,Nicolás Otamendi
-Carlos Tevez,Javier Mascherano,Juan Pablo Sorín,Lionel Messi,Nicolás Burdisso,Claudio Caniggia,Éver Banega,Juan Román Riquelme,Martín Palermo,Ángel Di María,Daniel Passarella
-Nicolás Burdisso,Daniel Passarella,Javier Saviola,Martín Palermo,Javier Mascherano,Maxi Rodríguez,Nicolás Otamendi
-Juan Pablo Sorín,Gonzalo Higuaín,Martín Palermo,Carlos Tevez,Lionel Messi,Gabriel Batistuta,Hernán Crespo,Javier Saviola,Roberto Sensini,Juan Román Riquelme,Javier Mascherano,Ángel Di María,Claudio Caniggia,Esteban Cambiasso,Sergio Agüero,Ariel Ortega,Alfredo Di Stéfano
-Maxi Rodríguez,Roberto Ayala,Javier Saviola,Martín Palermo,Ángel Di María,Juan Pablo Sorín,Gabriel Batistuta,Javier Zanetti,Diego Maradona,Lionel Messi,Alfredo Di Stéfano,Fernando Redondo,Ariel Ortega
-Hernán Crespo,Nicolás Burdisso,Claudio Caniggia,Gonzalo Higuaín,Roberto Sensini,Roberto Ayala,Martín Palermo,Ariel Ortega,Juan Román Riquelme,Sergio Agüero,Nicolás Otamendi,Éver Banega
-Juan Pablo Sorín,Alfredo Di Stéfano,Carlos Tevez,Javier Mascherano,Hernán Crespo,Gabriel Batistuta,Roberto Sensini,Pablo Aimar,Claudio Caniggia,Sergio Agüero
-Carlos Tevez,Nicolás Burdisso,Diego Maradona,Juan Román Riquelme,Roberto Sensini,Nicolás Otamendi,Roberto Ayala,Juan Pablo Sorín,Gonzalo Higuaín,Ángel Di María,Hernán Crespo,Sergio Agüero,Claudio López,Éver Banega,Claudio Caniggia,Maxi Rodríguez
-Pablo Aimar,Nicolás Otamendi,Martín Palermo,Claudio López,Fernando Redondo,Gabriel Batistuta,Javier Zanetti,Roberto Sensini,Éver Banega,Javier Mascherano,Diego Maradona,Nicolás Burdisso,Ariel Ortega
-Javier Saviola,Sergio Agüero,Esteban Cambiasso,Diego Maradona,Nicolás Burdisso,Fernando Redondo,Pablo Aimar,Éver Banega,Ezequiel Lavezzi,Juan Román Riquelme,Hernán Crespo,Mario Kempes,Ariel Ortega,Roberto Ayala,Martín Palermo,Gonzalo Higuaín,Lionel Messi
-Lionel Messi,Javier Zanetti,Gabriel Batistuta,Hernán Crespo,Roberto Ayala,Martín Palermo
-Ezequiel Lavezzi,Nicolás Otamendi,Alfredo Di Stéfano,Fernando Redondo,Juan Román Riquelme,Diego Maradona,Esteban Cambiasso,Éver Banega,Roberto Ayala,Javier Mascherano,Maxi Rodríguez,Carlos Tevez,Nicolás Burdisso,Sergio Agüero,Martín Palermo,Gonzalo Higuaín
-Fernando Redondo,Gonzalo Higuaín,Maxi Rodríguez,Javier Mascherano,Juan Román Riquelme,Hernán Crespo,Ezequiel Lavezzi,Ariel Ortega,Martín Palermo,Nicolás Burdisso,Nicolás Otamendi,Carlos Tevez,Daniel Passarella,Alfredo Di Stéfano
-Martín Palermo,Ariel Ortega,Diego Maradona,Juan Pablo Sorín,Javier Mascherano,Éver Banega,Roberto Ayala,Roberto Sensini,Pablo Aimar,Nicolás Otamendi
-Ángel Di María,Claudio López,Gabriel Batistuta,Hernán Crespo,Roberto Ayala,Diego Maradona,Juan Román Riquelme,Javier Mascherano,Martín Palermo,Roberto Sensini,Pablo Aimar,Ariel Ortega,Claudio Caniggia
-Ezequiel Lavezzi,Juan Román Riquelme,Éver Banega,Javier Zanetti,Roberto Ayala,Martín Palermo,Alfredo Di Stéfano,Fernando Redondo,Claudio Caniggia,Gonzalo Higuaín
-Lionel Messi,Hernán Crespo,Esteban Cambiasso,Gonzalo Higuaín,Gabriel Batistuta,Claudio López,Alfredo Di Stéfano,Nicolás Otamendi
-Martín Palermo,Pablo Aimar,Gabriel Batistuta,Claudio López,Éver Banega,Juan Román Riquelme,Maxi Rodríguez,Nicolás Burdisso,Esteban Cambiasso,Roberto Sensini,Daniel Passarella,Sergio Agüero,Roberto Ayala,Ezequiel Lavezzi,Ariel Ortega,Javier Zanetti
-Lionel Messi,Maxi Rodríguez,Pablo Aimar,Juan Román Riquelme,Javier Saviola,Alfredo Di Stéfano
-Diego Maradona,Martín Palermo,Sergio Agüero,Javier Mascherano,Hernán Crespo,Ángel Di María,Claudio López,Esteban Cambiasso
-Fernando Redondo,Sergio Agüero,Javier Zanetti,Lionel Messi,Pablo Aimar,Roberto Ayala,Ángel Di María,Carlos Tevez,Nicolás Otamendi,Maxi Rodríguez,Juan Román Riquelme,Éver Banega,Hernán Crespo,Roberto Sensini,Claudio Caniggia,Ezequiel Lavezzi
-Carlos Tevez,Ezequiel Lavezzi,Juan Román Riquelme,Ariel Ortega,Gabriel Batistuta,Lionel Messi,Nicolás Burdisso,Maxi Rodríguez,Alfredo Di Stéfano,Nicolás Otamendi,Martín Palermo,Pablo Aimar,Javier Mascherano,Claudio López,Éver Banega,Roberto Sensini,Mario Kempes
-Hernán Crespo,Juan Pablo Sorín,Javier Saviola,Lionel Messi,Gabriel Batistuta,Esteban Cambiasso,Claudio Caniggia,Carlos Tevez,Sergio Agüero,Ariel Ortega,Javier Mascherano,Alfredo Di Stéfano,Diego Maradona,Nicolás Otamendi,Pablo Aimar,Éver Banega,Javier Zanetti,Claudio López
-Carlos Tevez,Martín Palermo,Claudio López,Claudio Caniggia,Javier Saviola,Mario Kempes,Nicolás Burdisso,Esteban Cambiasso
-Roberto Sensini,Éver Banega,Juan Román Riquelme,Claudio Caniggia,Nicolás Burdisso,Javier Saviola
-Roberto Ayala,Ángel Di María,Juan Román Riquelme,Martín Palermo,Pablo Aimar,Esteban Cambiasso,Roberto Sensini
-Ariel Ortega,Roberto Ayala,Daniel Passarella,Javier Saviola,Roberto Sensini,Claudio Caniggia,Pablo Aimar,Nicolás Burdisso,Carlos Tevez,Alfredo Di Stéfano
-Hernán Crespo,Esteban Cambiasso,Sergio Agüero,Javier Saviola,Claudio Caniggia,Roberto Ayala,Lionel Messi,Maxi Rodríguez
-Carlos Tevez,Ariel Ortega,Ángel Di María,Nicolás Burdisso,Javier Saviola,Gonzalo Higuaín,Juan Pablo Sorín
-Gabriel Batistuta,Juan Pablo Sorín,Ángel Di María,Nicolás Otamendi,Javier Saviola,Gonzalo Higuaín,Sergio Agüero,Roberto Sensini,Maxi Rodríguez,Nicolás Burdisso,Ariel Ortega,Diego Maradona,Daniel Passarella,Hernán Crespo,Esteban Cambiasso,Javier Mascherano,Carlos Tevez
-Carlos Tevez,Gabriel Batistuta,Fernando Redondo,Sergio Agüero,Javier Mascherano,Maxi Rodríguez,Nicolás Otamendi
-Javier Zanetti,Gonzalo Higuaín,Alfredo Di Stéfano,Maxi Rodríguez,Mario Kempes,Roberto Sensini,Ángel Di María,Javier Mascherano,Roberto Ayala,Carlos Tevez,Claudio Caniggia,Ariel Ortega
-Ezequiel Lavezzi,Juan Román Riquelme,Mario Kempes,Roberto Ayala,Esteban Cambiasso,Maxi Rodríguez,Gabriel Batistuta,Sergio Agüero,Nicolás Otamendi,Alfredo Di Stéfano
-Esteban Cambiasso,Martín Palermo,Éver Banega,Maxi Rodríguez,Juan Pablo Sorín,Ángel Di María,Javier Zanetti,Hernán Crespo,Diego Maradona,Roberto Ayala,Juan Román Riquelme
-Nicolás Burdisso,Juan Román Riquelme,Esteban Cambiasso,Mario Kempes,Fernando Redondo,Sergio Agüero,Javier Zanetti,Carlos Tevez,Juan Pablo Sorín,Martín Palermo,Nicolás Otamendi
-Carlos Tevez,Hernán Crespo,Javier Mascherano,Nicolás Burdisso,Diego Maradona,Javier Zanetti,Alfredo Di Stéfano
-Carlos Tevez,Alfredo Di Stéfano,Fernando Redondo,Mario Kempes,Lionel Messi,Javier Saviola,Juan Román Riquelme,Martín Palermo,Ezequiel Lavezzi,Gonzalo Higuaín,Roberto Sensini,Diego Maradona,Sergio Agüero,Pablo Aimar,Ariel Ortega,Claudio López,Juan Pablo Sorín
-Ariel Ortega,Nicolás Burdisso,Gabriel Batistuta,Gonzalo Higuaín,Diego Maradona,Daniel Passarella,Sergio Agüero,Javier Saviola
-Claudio López,Fernando Redondo,Javier Mascherano,Hernán Crespo,Sergio Agüero,Nicolás Burdisso,Alfredo Di Stéfano,Éver Banega,Martín Palermo,Ángel Di María,Maxi Rodríguez,Roberto Sensini,Ezequiel Lavezzi,Ariel Ortega,Lionel Messi,Juan Román Riquelme,Gabriel Batistuta
-Nicolás Otamendi,Gonzalo Higuaín,Lionel Messi,Juan Pablo Sorín,Daniel Passarella,Javier Mascherano,Mario Kempes,Fernando Redondo,Claudio López,Ariel Ortega,Claudio Caniggia,Maxi Rodríguez,Nicolás Burdisso,Pablo Aimar,Juan Román Riquelme,Ángel Di María,Javier Zanetti,Martín Palermo
-Sergio Agüero,Javier Mascherano,Nicolás Otamendi,Nicolás Burdisso,Carlos Tevez,Juan Pablo Sorín,Claudio López,Diego Maradona,Gabriel Batistuta,Esteban Cambiasso,Mario Kempes,Alfredo Di Stéfano,Javier Zanetti
-Mario Kempes,Hernán Crespo,Juan Pablo Sorín,Maxi Rodríguez,Diego Maradona,Nicolás Otamendi,Éver Banega,Claudio Caniggia,Nicolás Burdisso,Javier Saviola,Carlos Tevez,Ariel Ortega,Esteban Cambiasso,Gonzalo Higuaín,Martín Palermo,Ángel Di María
-Gabriel Batistuta,Daniel Passarella,Gonzalo Higuaín,Ariel Ortega,Alfredo Di Stéfano,Lionel Messi,Esteban Cambiasso,Carlos Tevez
-Sergio Agüero,Javier Mascherano,Gonzalo Higuaín,Hernán Crespo,Claudio López,Gabriel Batistuta,Roberto Sensini,Juan Román Riquelme,Lionel Messi,Claudio Caniggia,Ariel Ortega,Nicolás Otamendi,Javier Zanetti
-Martín Palermo,Nicolás Burdisso,Gabriel Batistuta,Ezequiel Lavezzi,Ariel Ortega,Roberto Sensini,Javier Mascherano,Javier Saviola
-Javier Mascherano,Ariel Ortega,Javier Zanetti,Alfredo Di Stéfano,Roberto Ayala,Juan Pablo Sorín,Nicolás Otamendi
-Claudio López,Martín Palermo,Carlos Tevez,Ariel Ortega,Javier Saviola,Javier Zanetti,Gabriel Batistuta,Hernán Crespo,Mario Kempes,Nicolás Otamendi,Esteban Cambiasso,Nicolás Burdisso
-Pablo Aimar,Ariel Ortega,Javier Mascherano,Juan Román Riquelme,Sergio Agüero,Maxi Rodríguez,Ezequiel Lavezzi,Claudio López,Hernán Crespo,Juan Pablo Sorín
-Juan Pablo Sorín,Gabriel Batistuta,Javier Mascherano,Javier Saviola,Roberto Ayala,Mario Kempes,Ezequiel Lavezzi,Esteban Cambiasso,Javier Zanetti,Gonzalo Higuaín,Ángel Di María,Carlos Tevez,Roberto Sensini,Claudio Caniggia
-Ángel Di María,Claudio López,Juan Pablo Sorín,Juan Román Riquelme,Lionel Messi,Martín Palermo,Ariel Ortega,Carlos Tevez,Nicolás Otamendi,Roberto Sensini,Diego Maradona,Javier Zanetti,Roberto Ayala
-Roberto Ayala,Sergio Agüero,Javier Zanetti,Nicolás Otamendi,Pablo Aimar,Éver Banega,Carlos Tevez,Lionel Messi,Javier Saviola,Esteban Cambiasso,Martín Palermo,Juan Román Riquelme,Gonzalo Higuaín,Juan Pablo Sorín,Maxi Rodríguez,Ezequiel Lavezzi,Ángel Di María
-Claudio López,Mario Kempes,Ezequiel Lavezzi,Lionel Messi,Gabriel Batistuta,Sergio Agüero,Hernán Crespo,Javier Saviola,Fernando Redondo,Nicolás Burdisso,Diego Maradona,Martín Palermo,Pablo Aimar,Esteban Cambiasso,Maxi Rodríguez,Carlos Tevez,Javier Zanetti,Alfredo Di Stéfano
-Daniel Passarella,Éver Banega,Claudio Caniggia,Javier Mascherano,Esteban Cambiasso,Roberto Sensini,Gabriel Batistuta,Fernando Redondo,Javier Saviola,Ezequiel Lavezzi,Roberto Ayala,Carlos Tevez
-Diego Maradona,Juan Pablo Sorín,Esteban Cambiasso,Ezequiel Lavezzi,Mario Kempes,Claudio Caniggia,Gabriel Batistuta,Carlos Tevez,Claudio López,Lionel Messi,Sergio Agüero,Roberto Ayala,Juan Román Riquelme,Roberto Sensini,Pablo Aimar,Javier Zanetti
-Ángel Di María,Claudio Caniggia,Maxi Rodríguez,Pablo Aimar,Mario Kempes,Javier Saviola,Éver Banega,Juan Román Riquelme,Sergio Agüero,Roberto Sensini,Roberto Ayala,Daniel Passarella,Ezequiel Lavezzi,Javier Mascherano
-Fernando Redondo,Martín Palermo,Javier Zanetti,Esteban Cambiasso,Gonzalo Higuaín,Carlos Tevez,Roberto Sensini,Sergio Agüero
-Javier Saviola,Lionel Messi,Roberto Sensini,Roberto Ayala,Claudio Caniggia,Daniel Passarella,Fernando Redondo,Ariel Ortega,Claudio López,Esteban Cambiasso,Ángel Di María,Alfredo Di Stéfano,Carlos Tevez
-Éver Banega,Roberto Sensini,Claudio Caniggia,Mario Kempes,Javier Saviola,Juan Pablo Sorín,Nicolás Burdisso,Gabriel Batistuta,Fernando Redondo,Maxi Rodríguez,Diego Maradona,Hernán Crespo,Martín Palermo
-Juan Pablo Sorín,Sergio Agüero,Gabriel Batistuta,Roberto Ayala,Claudio Caniggia,Ángel Di María,Pablo Aimar,Nicolás Otamendi,Fernando Redondo,Roberto Sensini,Lionel Messi,Javier Mascherano,Alfredo Di Stéfano,Mario Kempes
-Éver Banega,Javier Saviola,Fernando Redondo,Alfredo Di Stéfano,Pablo Aimar,Claudio Caniggia,Ángel Di María,Ariel Ortega,Juan Pablo Sorín,Maxi Rodríguez,Nicolás Burdisso,Juan Román Riquelme,Carlos Tevez,Diego Maradona,Gonzalo Higuaín,Roberto Ayala,Javier Mascherano
-Pablo Aimar,Gabriel Batistuta,Ariel Ortega,Ángel Di María,Fernando Redondo,Lionel Messi,Roberto Ayala
-Nicolás Otamendi,Fernando Redondo,Mario Kempes,Hernán Crespo,Éver Banega,Juan Román Riquelme
-Gonzalo Higuaín,Nicolás Otamendi,Daniel Passarella,Ariel Ortega,Juan Román Riquelme,Mario Kempes,Diego Maradona,Pablo Aimar,Maxi Rodríguez,Javier Mascherano,Nicolás Burdisso,Roberto Ayala
-Alfredo Di Stéfano,Roberto Sensini,Maxi Rodríguez,Claudio Caniggia,Sergio Agüero,Mario Kempes,Carlos Tevez,Gonzalo Higuaín,Daniel Passarella,Gabriel Batistuta
-Gonzalo Higuaín,Javier Saviola,Diego Maradona,Éver Banega,Hernán Crespo,Fernando Redondo,Juan Pablo Sorín,Claudio López
-Nicolás Otamendi,Carlos Tevez,Éver Banega,Roberto Ayala,Martín Palermo,Maxi Rodríguez
-Gabriel Batistuta,Daniel Passarella,Hernán Crespo,Mario Kempes,Pablo Aimar,Maxi Rodríguez,Ezequiel Lavezzi,Ángel Di María,Lionel Messi,Javier Saviola,Claudio López,Sergio Agüero,Roberto Sensini
-Ezequiel Lavezzi,Lionel Messi,Roberto Ayala,Ángel Di María,Pablo Aimar,Mario Kempes,Roberto Sensini
-Fernando Redondo,Claudio López,Éver Banega,Mario Kempes,Martín Palermo,Javier Mascherano
-Nicolás Burdisso,Gabriel Batistuta,Juan Pablo Sorín,Nicolás Otamendi,Ezequiel Lavezzi,Ariel Ortega,Fernando Redondo,Roberto Ayala,Roberto Sensini,Ángel Di María,Lionel Messi,Esteban Cambiasso,Pablo Aimar,Mario Kempes,Claudio Caniggia,Éver Banega
-Alfredo Di Stéfano,Ariel Ortega,Javier Zanetti,Claudio Caniggia,Esteban Cambiasso,Juan Pablo Sorín,Pablo Aimar,Ezequiel Lavezzi,Carlos Tevez,Javier Saviola,Mario Kempes
-Roberto Sensini,Nicolás Otamendi,Alfredo Di Stéfano,Claudio López,Esteban Cambiasso,Ariel Ortega,Daniel Passarella,Mario Kempes,Gonzalo Higuaín,Nicolás Burdisso,Martín Palermo,Hernán Crespo,Ángel Di María,Claudio Caniggia,Roberto Ayala,Sergio Agüero,Javier Saviola,Gabriel Batistuta
-Nicolás Burdisso,Fernando Redondo,Juan Román Riquelme,Pablo Aimar,Esteban Cambiasso,Diego Maradona,Nicolás Otamendi,Javier Mascherano,Carlos Tevez,Claudio Caniggia,Mario Kempes,Daniel Passarella,Lionel Messi,Ezequiel Lavezzi,Claudio López,Roberto Sensini,Hernán Crespo
-Javier Mascherano,Alfredo Di Stéfano,Pablo Aimar,Fernando Redondo,Nicolás Otamendi,Ariel Ortega,Martín Palermo,Javier Zanetti,Sergio Agüero,Roberto Sensini,Éver Banega
-Juan Román Riquelme,Javier Mascherano,Claudio López,Esteban Cambiasso,Alfredo Di Stéfano,Fernando Redondo,Sergio Agüero,Javier Saviola,Pablo Aimar,Roberto Sensini,Martín Palermo,Maxi Rodríguez,Éver Banega,Gonzalo Higuaín,Roberto Ayala,Javier Zanetti,Ezequiel Lavezzi,Gabriel Batistuta
-Diego Maradona,Carlos Tevez,Fernando Redondo,Ariel Ortega,Roberto Sensini,Hernán Crespo
-Esteban Cambiasso,Gabriel Batistuta,Fernando Redondo,Carlos Tevez,Gonzalo Higuaín,Roberto Sensini,Diego Maradona,Juan Pablo Sorín,Martín Palermo,Éver Banega
-Lionel Messi,Gabriel Batistuta,Javier Zanetti,Ángel Di María,Roberto Ayala,Fernando Redondo,Pablo Aimar,Ezequiel Lavezzi,Diego Maradona,Roberto Sensini
-Roberto Ayala,Nicolás Otamendi,Diego Maradona,Ezequiel Lavezzi,Gonzalo Higuaín,Ángel Di María,Daniel Passarella,Claudio Caniggia
-Alfredo Di Stéfano,Nicolás Otamendi,Fernando Redondo,Javier Saviola,Diego Maradona,Mario Kempes,Sergio Agüero,Javier Mascherano,Carlos Tevez,Ezequiel Lavezzi,Roberto Ayala,Martín Palermo,Nicolás Burdisso,Éver Banega,Ariel Ortega,Claudio López,Daniel Passarella
-Gonzalo Higuaín,Nicolás Burdisso,Juan Pablo Sorín,Fernando Redondo,Esteban Cambiasso,Sergio Agüero
-Gonzalo Higuaín,Ezequiel Lavezzi,Claudio Caniggia,Daniel Passarella,Claudio López,Carlos Tevez,Martín Palermo
-Éver Banega,Juan Román Riquelme,Roberto Ayala,Martín Palermo,Javier Mascherano,Alfredo Di Stéfano,Javier Saviola,Pablo Aimar,Nicolás Burdisso,Sergio Agüero,Ángel Di María
-Claudio López,Lionel Messi,Maxi Rodríguez,Éver Banega,Roberto Ayala,Carlos Tevez
-Mario Kempes,Nicolás Otamendi,Éver Banega,Maxi Rodríguez,Juan Pablo Sorín,Roberto Sensini,Juan Román Riquelme,Fernando Redondo,Pablo Aimar,Martín Palermo
-Javier Mascherano,Ezequiel Lavezzi,Claudio Caniggia,Diego Maradona,Roberto Ayala,Lionel Messi,Daniel Passarella,Gabriel Batistuta,Mario Kempes,Ángel Di María,Esteban Cambiasso,Nicolás Otamendi,Javier Saviola
-Éver Banega,Diego Maradona,Fernando Redondo,Mario Kempes,Esteban Cambiasso,Juan Pablo Sorín,Hernán Crespo,Nicolás Burdisso,Gabriel Batistuta,Roberto Sensini
-Nicolás Otamendi,Roberto Ayala,Juan Román Riquelme,Mario Kempes,Hernán Crespo,Javier Saviola,Ezequiel Lavezzi,Claudio López
-Claudio Caniggia,Pablo Aimar,Javier Saviola,Gabriel Batistuta,Lionel Messi,Alfredo Di Stéfano
-Martín Palermo,Fernando Redondo,Javier Saviola,Lionel Messi,Pablo Aimar,Ezequiel Lavezzi,Sergio Agüero,Roberto Sensini,Claudio Caniggia,Claudio López,Ángel Di María
-Ariel Ortega,Maxi Rodríguez,Juan Pablo Sorín,Diego Maradona,Fernando Redondo,Gabriel Batistuta,Claudio López,Claudio Caniggia,Ángel Di María,Javier Mascherano,Alfredo Di Stéfano,Éver Banega,Carlos Tevez,Javier Zanetti,Gonzalo Higuaín,Pablo Aimar
-Claudio Caniggia,Esteban Cambiasso,Sergio Agüero,Ezequiel Lavezzi,Roberto Ayala,Javier Mascherano,Maxi Rodríguez,Gabriel Batistuta,Daniel Passarella,Pablo Aimar,Ariel Ortega
-Ariel Ortega,Gabriel Batistuta,Claudio Caniggia,Fernando Redondo,Nicolás Otamendi,Juan Pablo Sorín,Ángel Di María,Nicolás Burdisso,Mario Kempes,Maxi Rodríguez,Lionel Messi,Gonzalo Higuaín,Esteban Cambiasso,Hernán Crespo,Carlos Tevez,Javier Saviola,Roberto Ayala,Diego Maradona
-Roberto Ayala,Hernán Crespo,Maxi Rodríguez,Javier Zanetti,Pablo Aimar,Ángel Di María,Fernando Redondo,Daniel Passarella
-Martín Palermo,Roberto Sensini,Javier Zanetti,Roberto Ayala,Ezequiel Lavezzi,Esteban Cambiasso,Lionel Messi,Nicolás Burdisso,Claudio Caniggia,Carlos Tevez,Juan Román Riquelme
-Lionel Messi,Juan Román Riquelme,Martín Palermo,Roberto Sensini,Ezequiel Lavezzi,Javier Zanetti,Ariel Ortega,Gabriel Batistuta,Claudio López,Fernando Redondo
-Daniel Passarella,Éver Banega,Claudio López,Hernán Crespo,Martín Palermo,Javier Mascherano,Roberto Ayala,Sergio Agüero,Fernando Redondo,Gabriel Batistuta,Nicolás Otamendi,Claudio Caniggia,Juan Pablo Sorín,Gonzalo Higuaín,Lionel Messi,Roberto Sensini,Mario Kempes,Juan Román Riquelme
-Esteban Cambiasso,Mario Kempes,Éver Banega,Javier Saviola,Gabriel Batistuta,Nicolás Otamendi,Ángel Di María,Gonzalo Higuaín,Juan Román Riquelme,Claudio López,Carlos Tevez,Diego Maradona,Javier Zanetti,Roberto Ayala
-Ariel Ortega,Claudio Caniggia,Ezequiel Lavezzi,Lionel Messi,Javier Mascherano,Gabriel Batistuta,Fernando Redondo
-Javier Zanetti,Nicolás Burdisso,Carlos Tevez,Ariel Ortega,Lionel Messi,Nicolás Otamendi,Claudio López,Gonzalo Higuaín,Gabriel Batistuta,Pablo Aimar,Éver Banega,Daniel Passarella
-Javier Zanetti,Diego Maradona,Roberto Sensini,Ariel Ortega,Éver Banega,Juan Pablo Sorín,Gonzalo Higuaín,Roberto Ayala,Fernando Redondo,Juan Román Riquelme,Carlos Tevez,Claudio Caniggia,Pablo Aimar,Sergio Agüero,Javier Saviola,Lionel Messi,Mario Kempes
-Gonzalo Higuaín,Alfredo Di Stéfano,Mario Kempes,Diego Maradona,Sergio Agüero,Javier Mascherano,Ariel Ortega,Roberto Sensini,Pablo Aimar,Javier Zanetti,Ángel Di María,Gabriel Batistuta,Nicolás Otamendi,Esteban Cambiasso
-Esteban Cambiasso,Ángel Di María,Roberto Sensini,Éver Banega,Carlos Tevez,Hernán Crespo,Juan Pablo Sorín,Lionel Messi,Fernando Redondo,Pablo Aimar,Gonzalo Higuaín,Claudio Caniggia,Nicolás Otamendi,Mario Kempes,Daniel Passarella,Javier Mascherano
-Fernando Redondo,Mario Kempes,Lionel Messi,Gabriel Batistuta,Maxi Rodríguez,Sergio Agüero,Juan Román Riquelme,Ariel Ortega,Roberto Sensini,Ezequiel Lavezzi,Nicolás Otamendi,Claudio Caniggia
-Mario Kempes,Ezequiel Lavezzi,Claudio López,Fernando Redondo,Martín Palermo,Diego Maradona,Lionel Messi,Roberto Ayala,Éver Banega,Juan Román Riquelme,Ángel Di María,Sergio Agüero,Juan Pablo Sorín,Hernán Crespo
-Mario Kempes,Javier Mascherano,Juan Román Riquelme,Diego Maradona,Maxi Rodríguez,Juan Pablo Sorín
-Diego Maradona,Daniel Passarella,Javier Saviola,Sergio Agüero,Javier Mascherano,Maxi Rodríguez,Claudio Caniggia
-Mario Kempes,Sergio Agüero,Nicolás Otamendi,Esteban Cambiasso,Ezequiel Lavezzi,Javier Saviola,Martín Palermo,Juan Román Riquelme,Nicolás Burdisso,Juan Pablo Sorín
-Lionel Messi,Fernando Redondo,Mario Kempes,Nicolás Otamendi,Daniel Passarella,Nicolás Burdisso,Javier Mascherano,Éver Banega
-Carlos Tevez,Ezequiel Lavezzi,Diego Maradona,Juan Pablo Sorín,Ángel Di María,Alfredo Di Stéfano,Maxi Rodríguez
-Alfredo Di Stéfano,Claudio Caniggia,Diego Maradona,Ángel Di María,Roberto Ayala,Juan Román Riquelme,Carlos Tevez,Hernán Crespo,Fernando Redondo,Lionel Messi,Ariel Ortega,Martín Palermo,Javier Zanetti,Ezequiel Lavezzi,Nicolás Otamendi,Maxi Rodríguez,Nicolás Burdisso,Javier Saviola
-Lionel Messi,Hernán Crespo,Éver Banega,Ariel Ortega,Nicolás Burdisso,Martín Palermo,Gabriel Batistuta,Alfredo Di Stéfano
-Esteban Cambiasso,Javier Mascherano,Éver Banega,Claudio Caniggia,Juan Pablo Sorín,Lionel Messi,Alfredo Di Stéfano,Ángel Di María,Mario Kempes,Claudio López,Nicolás Otamendi,Martín Palermo,Sergio Agüero,Ezequiel Lavezzi,Ariel Ortega,Daniel Passarella
-Claudio Caniggia,Maxi Rodríguez,Claudio López,Javier Zanetti,Ángel Di María,Juan Pablo Sorín,Fernando Redondo,Carlos Tevez,Daniel Passarella,Éver Banega
-Gabriel Batistuta,Javier Saviola,Nicolás Burdisso,Fernando Redondo,Diego Maradona,Roberto Sensini,Claudio Caniggia,Juan Pablo Sorín,Alfredo Di Stéfano,Ángel Di María,Juan Román Riquelme,Ariel Ortega,Carlos Tevez
-Pablo Aimar,Carlos Tevez,Gonzalo Higuaín,Hernán Crespo,Gabriel Batistuta,Ángel Di María,Alfredo Di Stéfano,Juan Román Riquelme,Éver Banega,Nicolás Otamendi,Roberto Sensini,Daniel Passarella,Ariel Ortega,Juan Pablo Sorín,Nicolás Burdisso,Diego Maradona
-Lionel Messi,Javier Mascherano,Mario Kempes,Martín Palermo,Gabriel Batistuta,Maxi Rodríguez,Fernando Redondo
-Fernando Redondo,Ezequiel Lavezzi,Diego Maradona,Roberto Ayala,Hernán Crespo,Claudio Caniggia
-Roberto Ayala,Martín Palermo,Fernando Redondo,Diego Maradona,Ezequiel Lavezzi,Éver Banega,Javier Mascherano,Nicolás Otamendi,Nicolás Burdisso,Lionel Messi,Maxi Rodríguez,Carlos Tevez,Gonzalo Higuaín,Mario Kempes,Daniel Passarella,Alfredo Di Stéfano,Esteban Cambiasso,Juan Pablo Sorín
-Sergio Agüero,Roberto Sensini,Martín Palermo,Daniel Passarella,Javier Mascherano,Diego Maradona,Alfredo Di Stéfano,Ezequiel Lavezzi,Claudio López,Éver Banega,Maxi Rodríguez,Hernán Crespo,Juan Pablo Sorín,Gabriel Batistuta,Ángel Di María,Carlos Tevez,Fernando Redondo
-Javier Zanetti,Sergio Agüero,Javier Mascherano,Juan Román Riquelme,Éver Banega,Carlos Tevez
-Gonzalo Higuaín,Pablo Aimar,Diego Maradona,Lionel Messi,Claudio Caniggia,Javier Zanetti,Fernando Redondo,Javier Saviola,Javier Mascherano,Juan Pablo Sorín,Maxi Rodríguez,Daniel Passarella,Ángel Di María,Martín Palermo
-Roberto Sensini,Ángel Di María,Claudio López,Éver Banega,Martín Palermo,Juan Pablo Sorín,Javier Mascherano,Esteban Cambiasso,Lionel Messi,Javier Saviola,Juan Román Riquelme,Javier Zanetti
-Claudio López,Javier Saviola,Éver Banega,Carlos Tevez,Daniel Passarella,Mario Kempes,Javier Zanetti,Ángel Di María,Roberto Ayala,Diego Maradona,Maxi Rodríguez,Ariel Ortega,Javier Mascherano,Claudio Caniggia,Hernán Crespo,Juan Pablo Sorín,Gabriel Batistuta
-Claudio López,Gonzalo Higuaín,Gabriel Batistuta,Juan Pablo Sorín,Martín Palermo,Javier Zanetti,Lionel Messi,Ezequiel Lavezzi,Fernando Redondo,Maxi Rodríguez,Daniel Passarella,Carlos Tevez
-Fernando Redondo,Esteban Cambiasso,Ariel Ortega,Pablo Aimar,Mario Kempes,Javier Mascherano
-Maxi Rodríguez,Javier Mascherano,Nicolás Otamendi,Esteban Cambiasso,Pablo Aimar,Gabriel Batistuta,Claudio Caniggia,Diego Maradona,Hernán Crespo,Roberto Sensini,Mario Kempes,Claudio López,Alfredo Di Stéfano,Javier Saviola,Ángel Di María,Lionel Messi
-Gonzalo Higuaín,Claudio López,Javier Zanetti,Ariel Ortega,Gabriel Batistuta,Martín Palermo,Pablo Aimar,Carlos Tevez,Nicolás Burdisso,Ángel Di María
-Fernando Redondo,Juan Pablo Sorín,Roberto Ayala,Diego Maradona,Claudio Caniggia,Gonzalo Higuaín,Mario Kempes,Carlos Tevez,Claudio López,Javier Mascherano,Maxi Rodríguez,Ángel Di María,Gabriel Batistuta,Lionel Messi,Roberto Sensini,Ezequiel Lavezzi,Ariel Ortega
-Mario Kempes,Javier Mascherano,Claudio Caniggia,Ángel Di María,Alfredo Di Stéfano,Diego Maradona,Maxi Rodríguez,Javier Saviola,Nicolás Burdisso,Éver Banega,Gonzalo Higuaín,Juan Román Riquelme,Javier Zanetti,Claudio López,Roberto Sensini,Gabriel Batistuta,Sergio Agüero,Esteban Cambiasso
-Martín Palermo,Éver Banega,Diego Maradona,Gabriel Batistuta,Ángel Di María,Mario Kempes
-Sergio Agüero,Gabriel Batistuta,Maxi Rodríguez,Claudio Caniggia,Javier Saviola,Diego Maradona,Daniel Passarella,Lionel Messi,Mario Kempes,Roberto Sensini,Pablo Aimar,Éver Banega,Javier Zanetti,Hernán Crespo,Alfredo Di Stéfano,Ángel Di María
-Carlos Tevez,Ángel Di María,Juan Román Riquelme,Gabriel Batistuta,Roberto Sensini,Hernán Crespo,Daniel Passarella,Nicolás Otamendi,Diego Maradona,Claudio Caniggia,Roberto Ayala,Ezequiel Lavezzi,Éver Banega,Martín Palermo,Mario Kempes,Sergio Agüero,Ariel Ortega,Lionel Messi
-Javier Saviola,Ariel Ortega,Daniel Passarella,Pablo Aimar,Sergio Agüero,Alfredo Di Stéfano,Carlos Tevez,Roberto Ayala,Nicolás Otamendi,Martín Palermo,Nicolás Burdisso,Gabriel Batistuta,Roberto Sensini,Lionel Messi
-Sergio Agüero,Javier Mascherano,Hernán Crespo,Diego Maradona,Juan Pablo Sorín,Esteban Cambiasso
-Carlos Tevez,Javier Mascherano,Gonzalo Higuaín,Javier Saviola,Roberto Sensini,Mario Kempes,Javier Zanetti,Daniel Passarella,Gabriel Batistuta,Maxi Rodríguez,Hernán Crespo,Claudio Caniggia
-Roberto Sensini,Sergio Agüero,Javier Saviola,Éver Banega,Gabriel Batistuta,Javier Zanetti,Hernán Crespo,Javier Mascherano,Nicolás Burdisso,Pablo Aimar,Fernando Redondo,Roberto Ayala,Lionel Messi,Juan Román Riquelme,Maxi Rodríguez,Nicolás Otamendi
-Carlos Tevez,Ezequiel Lavezzi,Gonzalo Higuaín,Javier Zanetti,Martín Palermo,Javier Mascherano,Mario Kempes,Javier Saviola,Éver Banega,Esteban Cambiasso,Pablo Aimar,Nicolás Burdisso,Alfredo Di Stéfano
-Nicolás Burdisso,Juan Román Riquelme,Diego Maradona,Carlos Tevez,Fernando Redondo,Juan Pablo Sorín,Martín Palermo,Claudio López,Ariel Ortega,Nicolás Otamendi,Gonzalo Higuaín,Claudio Caniggia,Daniel Passarella,Javier Mascherano,Roberto Sensini,Roberto Ayala,Éver Banega,Hernán Crespo
-Roberto Sensini,Mario Kempes,Nicolás Burdisso,Esteban Cambiasso,Juan Pablo Sorín,Fernando Redondo,Ariel Ortega,Martín Palermo
-Maxi Rodríguez,Mario Kempes,Claudio Caniggia,Éver Banega,Ángel Di María,Gabriel Batistuta,Claudio López,Ariel Ortega,Roberto Sensini,Carlos Tevez,Nicolás Otamendi,Lionel Messi,Juan Román Riquelme
-Mario Kempes,Gabriel Batistuta,Roberto Ayala,Ángel Di María,Juan Román Riquelme,Alfredo Di Stéfano,Maxi Rodríguez,Éver Banega,Carlos Tevez,Lionel Messi,Fernando Redondo,Ariel Ortega,Nicolás Burdisso,Roberto Sensini,Javier Zanetti,Hernán Crespo,Juan Pablo Sorín,Pablo Aimar
-Nicolás Burdisso,Martín Palermo,Gabriel Batistuta,Carlos Tevez,Daniel Passarella,Pablo Aimar,Juan Pablo Sorín,Gonzalo Higuaín,Maxi Rodríguez,Roberto Ayala,Éver Banega
-Nicolás Otamendi,Mario Kempes,Roberto Sensini,Javier Zanetti,Nicolás Burdisso,Alfredo Di Stéfano,Daniel Passarella,Claudio López,Roberto Ayala,Claudio Caniggia,Ariel Ortega,Juan Román Riquelme,Éver Banega,Maxi Rodríguez
-Javier Saviola,Ezequiel Lavezzi,Javier Zanetti,Diego Maradona,Éver Banega,Sergio Agüero,Nicolás Otamendi,Juan Román Riquelme,Juan Pablo Sorín,Pablo Aimar,Alfredo Di Stéfano,Claudio López
-Diego Maradona,Javier Mascherano,Ángel Di María,Claudio Caniggia,Roberto Ayala,Roberto Sensini,Juan Román Riquelme,Fernando Redondo
-Ángel Di María,Sergio Agüero,Juan Pablo Sorín,Ariel Ortega,Juan Román Riquelme,Martín Palermo,Claudio López,Maxi Rodríguez,Esteban Cambiasso,Carlos Tevez,Nicolás Otamendi,Éver Banega,Nicolás Burdisso
-Lionel Messi,Javier Zanetti,Roberto Ayala,Diego Maradona,Roberto Sensini,Juan Román Riquelme,Éver Banega,Sergio Agüero,Mario Kempes,Maxi Rodríguez
-Mario Kempes,Gonzalo Higuaín,Claudio Caniggia,Nicolás Otamendi,Claudio López,Nicolás Burdisso,Juan Pablo Sorín,Ariel Ortega,Fernando Redondo,Roberto Sensini,Gabriel Batistuta
-Gabriel Batistuta,Roberto Ayala,Juan Pablo Sorín,Carlos Tevez,Nicolás Otamendi,Ángel Di María
-Maxi Rodríguez,Nicolás Otamendi,Juan Pablo Sorín,Roberto Ayala,Sergio Agüero,Éver Banega,Carlos Tevez,Diego Maradona,Claudio López,Esteban Cambiasso,Juan Román Riquelme,Gonzalo Higuaín,Lionel Messi,Mario Kempes,Javier Zanetti,Ezequiel Lavezzi,Javier Saviola,Ariel Ortega
-Ezequiel Lavezzi,Carlos Tevez,Juan Pablo Sorín,Javier Saviola,Ángel Di María,Daniel Passarella,Esteban Cambiasso,Claudio López,Roberto Sensini,Sergio Agüero,Pablo Aimar,Javier Zanetti,Alfredo Di Stéfano,Nicolás Burdisso,Martín Palermo,Nicolás Otamendi,Gabriel Batistuta
-Mario Kempes,Fernando Redondo,Javier Mascherano,Martín Palermo,Hernán Crespo,Claudio Caniggia,Daniel Passarella,Ezequiel Lavezzi,Alfredo Di Stéfano,Roberto Sensini,Ángel Di María,Juan Pablo Sorín,Gonzalo Higuaín,Lionel Messi,Sergio Agüero,Maxi Rodríguez
-Esteban Cambiasso,Roberto Sensini,Éver Banega,Ariel Ortega,Martín Palermo,Diego Maradona,Lionel Messi,Nicolás Burdisso,Ezequiel Lavezzi,Claudio Caniggia,Carlos Tevez,Javier Zanetti,Maxi Rodríguez,Daniel Passarella,Pablo Aimar,Ángel Di María,Juan Román Riquelme
-Claudio López,Pablo Aimar,Martín Palermo,Fernando Redondo,Juan Pablo Sorín,Esteban Cambiasso,Claudio Caniggia,Javier Mascherano,Javier Saviola,Carlos Tevez
-Mario Kempes,Ariel Ortega,Pablo Aimar,Juan Pablo Sorín,Daniel Passarella,Carlos Tevez,Ángel Di María,Roberto Ayala,Ezequiel Lavezzi,Hernán Crespo
-Javier Zanetti,Martín Palermo,Lionel Messi,Maxi Rodríguez,Esteban Cambiasso,Gonzalo Higuaín
-Javier Zanetti,Claudio López,Javier Saviola,Maxi Rodríguez,Ezequiel Lavezzi,Lionel Messi,Gabriel Batistuta,Nicolás Otamendi,Juan Román Riquelme,Daniel Passarella,Gonzalo Higuaín
-Juan Pablo Sorín,Mario Kempes,Juan Román Riquelme,Lionel Messi,Éver Banega,Nicolás Burdisso,Esteban Cambiasso,Ariel Ortega,Fernando Redondo,Gabriel Batistuta,Claudio Caniggia,Maxi Rodríguez,Javier Zanetti,Sergio Agüero
-Gabriel Batistuta,Sergio Agüero,Martín Palermo,Claudio Caniggia,Javier Saviola,Javier Zanetti,Ángel Di María,Juan Román Riquelme,Diego Maradona,Javier Mascherano,Roberto Ayala,Maxi Rodríguez,Carlos Tevez,Mario Kempes,Ariel Ortega,Roberto Sensini,Juan Pablo Sorín,Éver Banega
-Nicolás Burdisso,Nicolás Otamendi,Lionel Messi,Sergio Agüero,Ezequiel Lavezzi,Éver Banega,Ariel Ortega
-Ariel Ortega,Roberto Ayala,Éver Banega,Nicolás Burdisso,Pablo Aimar,Gabriel Batistuta,Claudio Caniggia,Javier Mascherano,Carlos Tevez,Sergio Agüero
-Ezequiel Lavezzi,Lionel Messi,Éver Banega,Roberto Sensini,Mario Kempes,Diego Maradona,Gonzalo Higuaín
-Fernando Redondo,Javier Zanetti,Lionel Messi,Nicolás Otamendi,Claudio López,Roberto Ayala,Carlos Tevez,Alfredo Di Stéfano,Javier Saviola,Diego Maradona,Ángel Di María,Gonzalo Higuaín,Pablo Aimar,Juan Román Riquelme,Mario Kempes,Claudio Caniggia,Ariel Ortega
-Gabriel Batistuta,Javier Mascherano,Roberto Ayala,Daniel Passarella,Diego Maradona,Juan Pablo Sorín,Martín Palermo,Sergio Agüero,Javier Zanetti,Roberto Sensini,Éver Banega,Ezequiel Lavezzi,Javier Saviola,Fernando Redondo,Nicolás Burdisso,Claudio López
-Nicolás Otamendi,Juan Pablo Sorín,Hernán Crespo,Gabriel Batistuta,Alfredo Di Stéfano,Gonzalo Higuaín,Fernando Redondo,Javier Mascherano,Roberto Sensini,Claudio López,Pablo Aimar,Javier Saviola,Maxi Rodríguez,Nicolás Burdisso,Martín Palermo,Lionel Messi,Javier Zanetti,Ariel Ortega
-Lionel Messi,Sergio Agüero,Pablo Aimar,Hernán Crespo,Éver Banega,Javier Saviola
-Claudio López,Javier Mascherano,Fernando Redondo,Gabriel Batistuta,Ángel Di María,Gonzalo Higuaín,Diego Maradona,Pablo Aimar,Esteban Cambiasso,Roberto Sensini,Daniel Passarella,Javier Saviola,Nicolás Burdisso,Maxi Rodríguez
-Pablo Aimar,Lionel Messi,Roberto Ayala,Fernando Redondo,Javier Zanetti,Alfredo Di Stéfano,Esteban Cambiasso,Javier Saviola
-Diego Maradona,Roberto Ayala,Martín Palermo,Gonzalo Higuaín,Carlos Tevez,Javier Saviola,Sergio Agüero,Gabriel Batistuta,Ariel Ortega,Nicolás Burdisso,Éver Banega
-Nicolás Burdisso,Claudio Caniggia,Javier Saviola,Juan Pablo Sorín,Gabriel Batistuta,Pablo Aimar,Lionel Messi,Alfredo Di Stéfano,Sergio Agüero,Juan Román Riquelme
-Javier Zanetti,Esteban Cambiasso,Nicolás Otamendi,Hernán Crespo,Lionel Messi,Daniel Passarella,Juan Pablo Sorín,Gabriel Batistuta,Martín Palermo,Maxi Rodríguez
-Javier Mascherano,Esteban Cambiasso,Claudio López,Alfredo Di Stéfano,Sergio Agüero,Éver Banega
-Maxi Rodríguez,Nicolás Burdisso,Javier Saviola,Sergio Agüero,Alfredo Di Stéfano,Javier Mascherano,Claudio Caniggia,Daniel Passarella,Diego Maradona,Carlos Tevez,Martín Palermo,Juan Román Riquelme,Roberto Ayala,Ariel Ortega,Gabriel Batistuta,Javier Zanetti,Éver Banega,Roberto Sensini
-Javier Mascherano,Hernán Crespo,Carlos Tevez,Nicolás Otamendi,Martín Palermo,Gonzalo Higuaín,Claudio López,Diego Maradona,Gabriel Batistuta,Roberto Sensini
-Sergio Agüero,Juan Román Riquelme,Javier Mascherano,Claudio Caniggia,Fernando Redondo,Diego Maradona,Gonzalo Higuaín
-Nicolás Burdisso,Pablo Aimar,Nicolás Otamendi,Mario Kempes,Javier Zanetti,Hernán Crespo,Ariel Ortega,Martín Palermo,Diego Maradona,Gonzalo Higuaín,Javier Mascherano,Fernando Redondo
-Esteban Cambiasso,Juan Pablo Sorín,Javier Mascherano,Mario Kempes,Pablo Aimar,Nicolás Burdisso,Carlos Tevez,Ariel Ortega,Nicolás Otamendi,Éver Banega,Diego Maradona,Sergio Agüero,Roberto Sensini,Javier Saviola,Gonzalo Higuaín,Claudio López,Ezequiel Lavezzi
-Sergio Agüero,Gonzalo Higuaín,Roberto Ayala,Pablo Aimar,Ezequiel Lavezzi,Claudio López,Martín Palermo
-Juan Pablo Sorín,Hernán Crespo,Éver Banega,Gabriel Batistuta,Roberto Sensini,Lionel Messi,Javier Saviola,Ángel Di María,Mario Kempes,Martín Palermo,Javier Mascherano,Roberto Ayala,Sergio Agüero,Alfredo Di Stéfano
-Nicolás Burdisso,Martín Palermo,Javier Saviola,Ariel Ortega,Diego Maradona,Javier Zanetti,Pablo Aimar
-Martín Palermo,Javier Mascherano,Claudio Caniggia,Alfredo Di Stéfano,Claudio López,Javier Saviola,Nicolás Otamendi,Hernán Crespo,Mario Kempes,Éver Banega
-Daniel Passarella,Ángel Di María,Ezequiel Lavezzi,Gonzalo Higuaín,Javier Zanetti,Diego Maradona,Carlos Tevez,Hernán Crespo,Roberto Sensini,Lionel Messi,Javier Mascherano,Claudio Caniggia,Alfredo Di Stéfano,Juan Pablo Sorín,Maxi Rodríguez,Pablo Aimar,Claudio López,Éver Banega
-Esteban Cambiasso,Gabriel Batistuta,Javier Mascherano,Ariel Ortega,Maxi Rodríguez,Éver Banega,Nicolás Otamendi,Lionel Messi
-Fernando Redondo,Gabriel Batistuta,Carlos Tevez,Juan Román Riquelme,Claudio López,Daniel Passarella,Nicolás Burdisso,Javier Zanetti,Alfredo Di Stéfano,Javier Saviola,Gonzalo Higuaín,Juan Pablo Sorín,Sergio Agüero,Diego Maradona
-Claudio Caniggia,Daniel Passarella,Ángel Di María,Javier Zanetti,Claudio López,Maxi Rodríguez,Fernando Redondo,Pablo Aimar,Esteban Cambiasso,Ezequiel Lavezzi,Carlos Tevez
-Nicolás Otamendi,Claudio Caniggia,Gonzalo Higuaín,Maxi Rodríguez,Javier Mascherano,Ezequiel Lavezzi,Nicolás Burdisso,Pablo Aimar,Éver Banega,Sergio Agüero,Mario Kempes,Ángel Di María,Diego Maradona
-Martín Palermo,Ezequiel Lavezzi,Roberto Ayala,Mario Kempes,Pablo Aimar,Gonzalo Higuaín,Alfredo Di Stéfano,Éver Banega,Javier Zanetti,Javier Saviola,Hernán Crespo,Sergio Agüero,Roberto Sensini
-Ariel Ortega,Fernando Redondo,Nicolás Otamendi,Javier Saviola,Carlos Tevez,Roberto Ayala,Gabriel Batistuta,Gonzalo Higuaín,Ezequiel Lavezzi,Sergio Agüero,Roberto Sensini,Claudio López,Éver Banega,Mario Kempes,Ángel Di María,Juan Pablo Sorín
-Hernán Crespo,Alfredo Di Stéfano,Carlos Tevez,Sergio Agüero,Roberto Ayala,Roberto Sensini,Martín Palermo,Maxi Rodríguez,Juan Román Riquelme,Javier Zanetti,Juan Pablo Sorín,Pablo Aimar,Lionel Messi,Gonzalo Higuaín,Javier Mascherano,Claudio Caniggia,Fernando Redondo
-Javier Saviola,Maxi Rodríguez,Lionel Messi,Pablo Aimar,Ezequiel Lavezzi,Diego Maradona,Roberto Sensini,Roberto Ayala,Javier Mascherano,Ariel Ortega
-Roberto Sensini,Juan Pablo Sorín,Javier Mascherano,Claudio López,Esteban Cambiasso,Ariel Ortega,Ángel Di María,Roberto Ayala,Javier Saviola,Alfredo Di Stéfano,Éver Banega,Nicolás Burdisso,Ezequiel Lavezzi,Claudio Caniggia,Fernando Redondo,Gabriel Batistuta,Lionel Messi,Mario Kempes
-Javier Mascherano,Maxi Rodríguez,Martín Palermo,Ángel Di María,Pablo Aimar,Gabriel Batistuta,Nicolás Otamendi,Roberto Sensini,Hernán Crespo,Esteban Cambiasso,Claudio López,Mario Kempes,Javier Zanetti,Sergio Agüero,Éver Banega,Carlos Tevez,Javier Saviola
-Juan Román Riquelme,Nicolás Otamendi,Lionel Messi,Éver Banega,Javier Mascherano,Daniel Passarella,Ezequiel Lavezzi,Javier Saviola,Claudio López,Alfredo Di Stéfano,Esteban Cambiasso,Roberto Ayala,Roberto Sensini,Claudio Caniggia,Fernando Redondo,Maxi Rodríguez,Javier Zanetti
-Nicolás Burdisso,Gonzalo Higuaín,Roberto Ayala,Maxi Rodríguez,Carlos Tevez,Hernán Crespo,Esteban Cambiasso
-Lionel Messi,Gonzalo Higuaín,Carlos Tevez,Martín Palermo,Javier Saviola,Fernando Redondo,Hernán Crespo
-Juan Román Riquelme,Javier Zanetti,Maxi Rodríguez,Mario Kempes,Fernando Redondo,Alfredo Di Stéfano,Diego Maradona,Ángel Di María,Éver Banega,Lionel Messi,Nicolás Otamendi,Pablo Aimar,Claudio Caniggia,Martín Palermo,Claudio López,Sergio Agüero,Roberto Sensini
-Roberto Sensini,Lionel Messi,Daniel Passarella,Alfredo Di Stéfano,Claudio López,Javier Zanetti,Sergio Agüero,Juan Román Riquelme,Fernando Redondo,Juan Pablo Sorín,Ezequiel Lavezzi
-Daniel Passarella,Ezequiel Lavezzi,Alfredo Di Stéfano,Roberto Ayala,Maxi Rodríguez,Hernán Crespo,Nicolás Otamendi,Mario Kempes,Fernando Redondo,Ángel Di María,Nicolás Burdisso,Juan Pablo Sorín,Sergio Agüero,Diego Maradona
-Juan Román Riquelme,Claudio Caniggia,Esteban Cambiasso,Alfredo Di Stéfano,Juan Pablo Sorín,Ángel Di María
-Esteban Cambiasso,Nicolás Otamendi,Martín Palermo,Maxi Rodríguez,Éver Banega,Hernán Crespo,Diego Maradona,Claudio López,Javier Mascherano,Gabriel Batistuta,Juan Román Riquelme,Alfredo Di Stéfano
-Sergio Agüero,Roberto Sensini,Javier Mascherano,Ángel Di María,Pablo Aimar,Gonzalo Higuaín,Fernando Redondo,Nicolás Burdisso,Daniel Passarella,Javier Saviola,Éver Banega,Javier Zanetti,Diego Maradona
-Gonzalo Higuaín,Hernán Crespo,Martín Palermo,Esteban Cambiasso,Ángel Di María,Roberto Sensini,Nicolás Otamendi,Juan Pablo Sorín
-Roberto Sensini,Lionel Messi,Pablo Aimar,Nicolás Burdisso,Mario Kempes,Ángel Di María,Éver Banega,Juan Román Riquelme,Sergio Agüero,Javier Mascherano,Javier Saviola,Claudio Caniggia,Roberto Ayala,Juan Pablo Sorín,Gonzalo Higuaín,Martín Palermo
-Pablo Aimar,Ariel Ortega,Nicolás Otamendi,Daniel Passarella,Lionel Messi,Carlos Tevez,Claudio López,Martín Palermo,Ezequiel Lavezzi,Éver Banega
-Pablo Aimar,Daniel Passarella,Mario Kempes,Juan Pablo Sorín,Lionel Messi,Nicolás Burdisso,Martín Palermo,Esteban Cambiasso,Hernán Crespo,Gabriel Batistuta,Gonzalo Higuaín,Claudio López,Nicolás Otamendi,Javier Saviola,Carlos Tevez,Sergio Agüero
-Martín Palermo,Juan Pablo Sorín,Daniel Passarella,Maxi Rodríguez,Pablo Aimar,Roberto Ayala,Javier Zanetti,Ezequiel Lavezzi,Éver Banega,Javier Mascherano,Ángel Di María,Fernando Redondo,Carlos Tevez,Nicolás Burdisso,Sergio Agüero,Ariel Ortega,Mario Kempes
-Sergio Agüero,Diego Maradona,Ezequiel Lavezzi,Juan Román Riquelme,Fernando Redondo,Claudio López,Éver Banega,Gabriel Batistuta,Pablo Aimar,Gonzalo Higuaín,Ariel Ortega,Daniel Passarella
-Sergio Agüero,Roberto Sensini,Éver Banega,Javier Saviola,Mario Kempes,Fernando Redondo,Ezequiel Lavezzi,Gonzalo Higuaín,Ariel Ortega,Gabriel Batistuta,Lionel Messi,Claudio Caniggia
-Martín Palermo,Diego Maradona,Claudio Caniggia,Roberto Ayala,Ezequiel Lavezzi,Javier Zanetti,Maxi Rodríguez,Fernando Redondo,Esteban Cambiasso,Éver Banega,Javier Saviola,Roberto Sensini,Daniel Passarella,Gabriel Batistuta
-Nicolás Burdisso,Javier Mascherano,Esteban Cambiasso,Diego Maradona,Javier Zanetti,Lionel Messi,Mario Kempes,Daniel Passarella,Martín Palermo,Hernán Crespo,Alfredo Di Stéfano,Juan Pablo Sorín,Carlos Tevez,Gonzalo Higuaín,Claudio Caniggia,Pablo Aimar,Fernando Redondo,Maxi Rodríguez
-Éver Banega,Nicolás Burdisso,Javier Saviola,Lionel Messi,Claudio López,Diego Maradona,Pablo Aimar,Roberto Ayala,Esteban Cambiasso,Fernando Redondo,Gonzalo Higuaín
-Ángel Di María,Carlos Tevez,Esteban Cambiasso,Diego Maradona,Juan Pablo Sorín,Fernando Redondo,Maxi Rodríguez,Alfredo Di Stéfano,Javier Zanetti,Roberto Ayala,Nicolás Burdisso,Daniel Passarella,Martín Palermo,Ezequiel Lavezzi,Roberto Sensini,Mario Kempes,Pablo Aimar,Nicolás Otamendi
-Ezequiel Lavezzi,Nicolás Burdisso,Fernando Redondo,Javier Mascherano,Sergio Agüero,Claudio López,Ángel Di María,Javier Saviola,Nicolás Otamendi,Esteban Cambiasso,Éver Banega,Hernán Crespo,Claudio Caniggia,Gonzalo Higuaín
-Ariel Ortega,Claudio Caniggia,Esteban Cambiasso,Javier Zanetti,Claudio López,Martín Palermo,Roberto Sensini,Ángel Di María,Pablo Aimar,Hernán Crespo,Gabriel Batistuta,Nicolás Burdisso,Alfredo Di Stéfano,Maxi Rodríguez,Lionel Messi,Ezequiel Lavezzi,Gonzalo Higuaín
-Gonzalo Higuaín,Ángel Di María,Claudio López,Nicolás Burdisso,Éver Banega,Ezequiel Lavezzi,Hernán Crespo,Mario Kempes,Juan Pablo Sorín,Sergio Agüero,Diego Maradona,Javier Mascherano,Javier Saviola,Alfredo Di Stéfano
-Gonzalo Higuaín,Ezequiel Lavezzi,Hernán Crespo,Fernando Redondo,Juan Pablo Sorín,Javier Mascherano,Nicolás Burdisso,Alfredo Di Stéfano,Nicolás Otamendi,Ariel Ortega,Lionel Messi,Ángel Di María,Roberto Sensini,Sergio Agüero,Esteban Cambiasso,Javier Saviola
-Alfredo Di Stéfano,Ángel Di María,Roberto Ayala,Javier Zanetti,Pablo Aimar,Daniel Passarella,Claudio Caniggia,Javier Mascherano
-Éver Banega,Sergio Agüero,Javier Zanetti,Alfredo Di Stéfano,Maxi Rodríguez,Gabriel Batistuta,Javier Saviola,Ángel Di María
-Javier Zanetti,Diego Maradona,Claudio López,Nicolás Burdisso,Sergio Agüero,Claudio Caniggia,Daniel Passarella,Éver Banega,Pablo Aimar,Ariel Ortega,Nicolás Otamendi,Lionel Messi,Esteban Cambiasso
-Esteban Cambiasso,Ariel Ortega,Ángel Di María,Pablo Aimar,Martín Palermo,Nicolás Burdisso,Éver Banega,Lionel Messi,Claudio Caniggia,Carlos Tevez,Ezequiel Lavezzi,Hernán Crespo,Alfredo Di Stéfano,Javier Zanetti,Diego Maradona,Roberto Sensini
-Claudio Caniggia,Martín Palermo,Diego Maradona,Sergio Agüero,Alfredo Di Stéfano,Roberto Ayala
+Éver Banega,Javier Zanetti,Claudio López,Ariel Ortega
+Hernán Crespo,Mario Kempes,Maxi Rodríguez,Ezequiel Lavezzi,Nicolás Burdisso,Lionel Messi,Daniel Passarella
+Javier Mascherano,Gonzalo Higuaín,Ariel Ortega,Javier Saviola
+Carlos Tevez,Maxi Rodríguez,Martín Palermo,Ariel Ortega,Roberto Sensini,Diego Maradona,Pablo Aimar,Alfredo Di Stéfano,Sergio Agüero
+Gonzalo Higuaín,Pablo Aimar,Lionel Messi,Ángel Di María,Martín Palermo,Nicolás Otamendi,Juan Román Riquelme,Mario Kempes
+Diego Maradona,Javier Saviola,Juan Román Riquelme,Claudio Caniggia,Sergio Agüero,Gabriel Batistuta,Alfredo Di Stéfano,Carlos Tevez
+Mario Kempes,Claudio Caniggia,Claudio López,Lionel Messi
+Javier Mascherano,Pablo Aimar,Gonzalo Higuaín,Carlos Tevez,Nicolás Otamendi
+Claudio López,Juan Román Riquelme,Gabriel Batistuta,Javier Mascherano,Maxi Rodríguez,Javier Zanetti
+Juan Román Riquelme,Claudio López,Alfredo Di Stéfano,Sergio Agüero,Carlos Tevez,Mario Kempes,Roberto Sensini,Nicolás Burdisso,Ángel Di María,Maxi Rodríguez
+Ezequiel Lavezzi,Ángel Di María,Nicolás Otamendi,Éver Banega
+Ezequiel Lavezzi,Diego Maradona,Éver Banega,Fernando Redondo
+Sergio Agüero,Roberto Ayala,Roberto Sensini,Gabriel Batistuta,Maxi Rodríguez,Gonzalo Higuaín,Mario Kempes,Ezequiel Lavezzi,Hernán Crespo,Claudio Caniggia
+Javier Zanetti,Lionel Messi,Fernando Redondo,Hernán Crespo,Claudio López,Martín Palermo,Éver Banega,Ariel Ortega
+Hernán Crespo,Ezequiel Lavezzi,Nicolás Burdisso,Éver Banega,Roberto Sensini,Esteban Cambiasso,Roberto Ayala,Javier Zanetti,Fernando Redondo
+Alfredo Di Stéfano,Éver Banega,Sergio Agüero,Lionel Messi,Diego Maradona,Claudio Caniggia,Roberto Sensini,Claudio López
+Diego Maradona,Pablo Aimar,Mario Kempes,Claudio López,Ezequiel Lavezzi,Javier Mascherano,Fernando Redondo
+Nicolás Burdisso,Nicolás Otamendi,Lionel Messi,Éver Banega,Juan Pablo Sorín,Claudio Caniggia,Martín Palermo,Ezequiel Lavezzi,Hernán Crespo,Roberto Sensini
+Juan Román Riquelme,Carlos Tevez,Roberto Sensini,Javier Saviola,Ángel Di María,Daniel Passarella,Lionel Messi,Claudio López,Javier Mascherano,Nicolás Burdisso
+Javier Mascherano,Gabriel Batistuta,Ángel Di María,Carlos Tevez,Daniel Passarella,Pablo Aimar
+Ángel Di María,Claudio Caniggia,Juan Román Riquelme,Maxi Rodríguez,Javier Saviola,Hernán Crespo,Nicolás Burdisso,Roberto Sensini,Javier Zanetti,Ezequiel Lavezzi
+Lionel Messi,Ariel Ortega,Ángel Di María,Pablo Aimar
+Mario Kempes,Fernando Redondo,Sergio Agüero,Daniel Passarella,Claudio Caniggia,Alfredo Di Stéfano,Roberto Sensini,Hernán Crespo,Javier Mascherano,Ariel Ortega
+Maxi Rodríguez,Claudio Caniggia,Claudio López,Javier Saviola,Gabriel Batistuta,Juan Román Riquelme,Javier Zanetti
+Hernán Crespo,Claudio Caniggia,Gabriel Batistuta,Ariel Ortega,Javier Mascherano,Éver Banega
+Javier Zanetti,Claudio Caniggia,Diego Maradona,Sergio Agüero
+Sergio Agüero,Javier Zanetti,Fernando Redondo,Maxi Rodríguez,Juan Román Riquelme,Diego Maradona,Ángel Di María,Hernán Crespo,Esteban Cambiasso,Nicolás Otamendi
+Carlos Tevez,Javier Saviola,Roberto Sensini,Éver Banega,Ángel Di María
+Claudio López,Pablo Aimar,Javier Saviola,Ezequiel Lavezzi,Gabriel Batistuta,Alfredo Di Stéfano,Éver Banega
+Javier Saviola,Ezequiel Lavezzi,Diego Maradona,Alfredo Di Stéfano,Gonzalo Higuaín,Claudio Caniggia,Gabriel Batistuta,Javier Zanetti,Daniel Passarella,Éver Banega
+Javier Mascherano,Roberto Ayala,Ezequiel Lavezzi,Hernán Crespo,Gabriel Batistuta,Maxi Rodríguez
+Carlos Tevez,Fernando Redondo,Roberto Sensini,Roberto Ayala,Diego Maradona,Juan Román Riquelme,Sergio Agüero,Claudio Caniggia
+Maxi Rodríguez,Gonzalo Higuaín,Juan Pablo Sorín,Claudio Caniggia,Roberto Ayala,Nicolás Otamendi,Pablo Aimar,Lionel Messi
+Esteban Cambiasso,Martín Palermo,Nicolás Otamendi,Javier Saviola,Gabriel Batistuta,Ariel Ortega,Hernán Crespo,Lionel Messi
+Lionel Messi,Daniel Passarella,Javier Zanetti,Gabriel Batistuta,Esteban Cambiasso,Martín Palermo
+Roberto Ayala,Martín Palermo,Esteban Cambiasso,Alfredo Di Stéfano,Mario Kempes,Carlos Tevez,Nicolás Burdisso,Éver Banega,Juan Román Riquelme,Ariel Ortega
+Claudio Caniggia,Pablo Aimar,Lionel Messi,Mario Kempes
+Diego Maradona,Javier Saviola,Nicolás Burdisso,Maxi Rodríguez,Javier Mascherano,Pablo Aimar,Daniel Passarella,Nicolás Otamendi
+Éver Banega,Diego Maradona,Gabriel Batistuta,Maxi Rodríguez,Juan Román Riquelme,Javier Saviola,Nicolás Otamendi,Juan Pablo Sorín
+Carlos Tevez,Gabriel Batistuta,Gonzalo Higuaín,Éver Banega,Claudio López,Javier Mascherano,Daniel Passarella
+Carlos Tevez,Nicolás Burdisso,Diego Maradona,Gabriel Batistuta
+Nicolás Burdisso,Lionel Messi,Daniel Passarella,Ariel Ortega,Juan Román Riquelme,Javier Saviola,Mario Kempes,Fernando Redondo,Nicolás Otamendi,Javier Mascherano
+Nicolás Burdisso,Roberto Sensini,Esteban Cambiasso,Daniel Passarella,Juan Pablo Sorín
+Juan Pablo Sorín,Ezequiel Lavezzi,Ángel Di María,Alfredo Di Stéfano,Esteban Cambiasso,Javier Mascherano,Juan Román Riquelme,Gonzalo Higuaín
+Lionel Messi,Daniel Passarella,Juan Pablo Sorín,Carlos Tevez,Ángel Di María
+Nicolás Otamendi,Juan Román Riquelme,Fernando Redondo,Gabriel Batistuta,Javier Saviola,Gonzalo Higuaín,Alfredo Di Stéfano,Daniel Passarella,Hernán Crespo,Juan Pablo Sorín
+Nicolás Burdisso,Claudio López,Hernán Crespo,Juan Román Riquelme,Javier Mascherano,Fernando Redondo,Gabriel Batistuta,Maxi Rodríguez,Pablo Aimar,Lionel Messi
+Nicolás Otamendi,Nicolás Burdisso,Juan Román Riquelme,Gabriel Batistuta,Javier Saviola,Maxi Rodríguez,Lionel Messi,Javier Mascherano
+Juan Román Riquelme,Hernán Crespo,Lionel Messi,Roberto Ayala,Ángel Di María,Nicolás Otamendi,Javier Saviola,Martín Palermo,Carlos Tevez
+Roberto Ayala,Javier Mascherano,Maxi Rodríguez,Hernán Crespo,Pablo Aimar,Diego Maradona,Javier Zanetti,Juan Román Riquelme
+Fernando Redondo,Roberto Ayala,Carlos Tevez,Javier Mascherano
+Alfredo Di Stéfano,Ángel Di María,Ezequiel Lavezzi,Pablo Aimar,Esteban Cambiasso,Javier Saviola,Maxi Rodríguez,Sergio Agüero
+Juan Pablo Sorín,Ángel Di María,Maxi Rodríguez,Alfredo Di Stéfano,Pablo Aimar,Nicolás Otamendi,Ariel Ortega,Gonzalo Higuaín
+Martín Palermo,Javier Mascherano,Alfredo Di Stéfano,Fernando Redondo,Claudio López,Juan Román Riquelme,Carlos Tevez,Esteban Cambiasso,Maxi Rodríguez
+Ezequiel Lavezzi,Ariel Ortega,Éver Banega,Claudio López,Carlos Tevez
+Nicolás Burdisso,Alfredo Di Stéfano,Sergio Agüero,Esteban Cambiasso
+Hernán Crespo,Sergio Agüero,Claudio Caniggia,Roberto Sensini,Daniel Passarella,Nicolás Otamendi,Diego Maradona
+Diego Maradona,Roberto Sensini,Javier Mascherano,Gonzalo Higuaín,Ariel Ortega,Claudio López,Roberto Ayala,Ezequiel Lavezzi,Lionel Messi,Sergio Agüero
+Fernando Redondo,Sergio Agüero,Nicolás Otamendi,Hernán Crespo,Javier Mascherano
+Gonzalo Higuaín,Roberto Sensini,Claudio López,Hernán Crespo,Nicolás Otamendi,Javier Mascherano,Éver Banega
+Maxi Rodríguez,Roberto Ayala,Javier Saviola,Javier Mascherano,Claudio López,Ángel Di María,Claudio Caniggia,Roberto Sensini,Pablo Aimar,Alfredo Di Stéfano
+Juan Pablo Sorín,Pablo Aimar,Esteban Cambiasso,Gonzalo Higuaín,Juan Román Riquelme,Maxi Rodríguez,Ángel Di María,Fernando Redondo,Claudio Caniggia
+Maxi Rodríguez,Pablo Aimar,Javier Saviola,Javier Mascherano,Diego Maradona,Hernán Crespo,Alfredo Di Stéfano,Roberto Sensini,Fernando Redondo,Mario Kempes
+Ángel Di María,Roberto Ayala,Éver Banega,Juan Pablo Sorín,Juan Román Riquelme,Maxi Rodríguez
+Nicolás Burdisso,Martín Palermo,Diego Maradona,Mario Kempes,Nicolás Otamendi,Ezequiel Lavezzi,Ariel Ortega
+Éver Banega,Roberto Sensini,Diego Maradona,Alfredo Di Stéfano,Gabriel Batistuta
+Ezequiel Lavezzi,Diego Maradona,Ariel Ortega,Mario Kempes,Ángel Di María
+Roberto Sensini,Sergio Agüero,Juan Pablo Sorín,Hernán Crespo,Gabriel Batistuta,Mario Kempes,Nicolás Otamendi,Ángel Di María,Martín Palermo
+Mario Kempes,Claudio López,Éver Banega,Fernando Redondo,Ezequiel Lavezzi,Gonzalo Higuaín,Javier Zanetti,Martín Palermo
+Gabriel Batistuta,Gonzalo Higuaín,Juan Román Riquelme,Juan Pablo Sorín,Javier Saviola,Daniel Passarella,Claudio Caniggia,Alfredo Di Stéfano
+Martín Palermo,Javier Saviola,Juan Pablo Sorín,Fernando Redondo
+Carlos Tevez,Diego Maradona,Gonzalo Higuaín,Claudio López,Mario Kempes,Martín Palermo,Alfredo Di Stéfano,Javier Mascherano,Ariel Ortega
+Claudio Caniggia,Gonzalo Higuaín,Sergio Agüero,Ángel Di María
+Carlos Tevez,Pablo Aimar,Daniel Passarella,Esteban Cambiasso,Roberto Ayala,Javier Zanetti,Éver Banega,Alfredo Di Stéfano,Diego Maradona
+Javier Saviola,Hernán Crespo,Daniel Passarella,Maxi Rodríguez,Ezequiel Lavezzi,Juan Pablo Sorín
+Fernando Redondo,Ariel Ortega,Esteban Cambiasso,Mario Kempes,Claudio Caniggia,Gonzalo Higuaín
+Martín Palermo,Maxi Rodríguez,Mario Kempes,Carlos Tevez
+Roberto Ayala,Maxi Rodríguez,Roberto Sensini,Ezequiel Lavezzi,Lionel Messi
+Roberto Ayala,Claudio Caniggia,Alfredo Di Stéfano,Javier Zanetti,Ariel Ortega
+Martín Palermo,Daniel Passarella,Nicolás Burdisso,Gabriel Batistuta
+Lionel Messi,Hernán Crespo,Juan Román Riquelme,Diego Maradona,Claudio Caniggia
+Nicolás Otamendi,Gabriel Batistuta,Juan Román Riquelme,Javier Zanetti,Pablo Aimar,Daniel Passarella,Maxi Rodríguez,Martín Palermo,Alfredo Di Stéfano
+Mario Kempes,Ezequiel Lavezzi,Lionel Messi,Roberto Sensini,Maxi Rodríguez,Ariel Ortega,Javier Zanetti,Javier Mascherano,Juan Román Riquelme,Carlos Tevez
+Carlos Tevez,Ariel Ortega,Juan Román Riquelme,Hernán Crespo,Diego Maradona,Pablo Aimar,Fernando Redondo,Martín Palermo
+Ángel Di María,Nicolás Otamendi,Éver Banega,Alfredo Di Stéfano,Roberto Ayala,Gonzalo Higuaín,Javier Mascherano,Lionel Messi
+Pablo Aimar,Esteban Cambiasso,Mario Kempes,Sergio Agüero,Ángel Di María,Roberto Sensini,Alfredo Di Stéfano,Diego Maradona,Maxi Rodríguez,Martín Palermo
+Javier Mascherano,Esteban Cambiasso,Javier Saviola,Pablo Aimar,Juan Pablo Sorín,Martín Palermo
+Lionel Messi,Ezequiel Lavezzi,Martín Palermo,Esteban Cambiasso,Fernando Redondo,Éver Banega
+Claudio López,Diego Maradona,Ariel Ortega,Juan Román Riquelme,Carlos Tevez,Pablo Aimar,Mario Kempes,Roberto Sensini,Juan Pablo Sorín,Hernán Crespo
+Daniel Passarella,Fernando Redondo,Sergio Agüero,Maxi Rodríguez,Roberto Ayala,Mario Kempes
+Ezequiel Lavezzi,Lionel Messi,Roberto Ayala,Fernando Redondo,Nicolás Otamendi,Javier Saviola,Maxi Rodríguez,Gabriel Batistuta
+Carlos Tevez,Claudio Caniggia,Ezequiel Lavezzi,Juan Pablo Sorín,Roberto Sensini,Esteban Cambiasso,Daniel Passarella,Nicolás Otamendi,Lionel Messi
+Pablo Aimar,Lionel Messi,Ángel Di María,Esteban Cambiasso,Roberto Ayala,Daniel Passarella,Ezequiel Lavezzi,Juan Román Riquelme,Fernando Redondo,Gabriel Batistuta
+Gonzalo Higuaín,Fernando Redondo,Claudio López,Pablo Aimar
+Alfredo Di Stéfano,Gonzalo Higuaín,Ariel Ortega,Esteban Cambiasso,Roberto Ayala,Juan Román Riquelme
+Maxi Rodríguez,Ángel Di María,Fernando Redondo,Gonzalo Higuaín,Ezequiel Lavezzi,Éver Banega,Hernán Crespo,Roberto Ayala,Javier Zanetti
+Daniel Passarella,Ángel Di María,Mario Kempes,Claudio Caniggia,Fernando Redondo,Lionel Messi,Ariel Ortega,Ezequiel Lavezzi,Hernán Crespo
+Ángel Di María,Martín Palermo,Pablo Aimar,Juan Pablo Sorín,Javier Zanetti,Esteban Cambiasso,Maxi Rodríguez,Roberto Sensini,Éver Banega,Hernán Crespo
+Nicolás Burdisso,Juan Román Riquelme,Ariel Ortega,Roberto Sensini,Fernando Redondo,Gonzalo Higuaín,Ezequiel Lavezzi
+Pablo Aimar,Fernando Redondo,Esteban Cambiasso,Roberto Sensini,Éver Banega,Martín Palermo
+Lionel Messi,Pablo Aimar,Javier Mascherano,Ariel Ortega
+Claudio López,Nicolás Burdisso,Fernando Redondo,Maxi Rodríguez,Juan Román Riquelme,Lionel Messi,Martín Palermo,Alfredo Di Stéfano,Hernán Crespo,Carlos Tevez
+Pablo Aimar,Nicolás Burdisso,Juan Pablo Sorín,Claudio López,Alfredo Di Stéfano,Sergio Agüero,Ezequiel Lavezzi,Roberto Ayala,Ángel Di María
+Ariel Ortega,Sergio Agüero,Diego Maradona,Martín Palermo,Fernando Redondo
+Pablo Aimar,Gabriel Batistuta,Carlos Tevez,Diego Maradona
+Alfredo Di Stéfano,Juan Román Riquelme,Nicolás Otamendi,Javier Zanetti,Esteban Cambiasso,Javier Saviola
+Gonzalo Higuaín,Sergio Agüero,Gabriel Batistuta,Nicolás Otamendi,Javier Mascherano,Hernán Crespo
+Ezequiel Lavezzi,Hernán Crespo,Roberto Sensini,Roberto Ayala,Alfredo Di Stéfano,Javier Zanetti,Mario Kempes,Gonzalo Higuaín,Javier Saviola
+Gonzalo Higuaín,Ezequiel Lavezzi,Roberto Ayala,Esteban Cambiasso
+Lionel Messi,Nicolás Otamendi,Maxi Rodríguez,Ángel Di María,Ariel Ortega,Sergio Agüero,Hernán Crespo,Juan Pablo Sorín
+Hernán Crespo,Carlos Tevez,Pablo Aimar,Javier Saviola,Sergio Agüero,Ariel Ortega,Esteban Cambiasso,Éver Banega
+Martín Palermo,Nicolás Burdisso,Diego Maradona,Ariel Ortega,Ángel Di María,Carlos Tevez
+Hernán Crespo,Javier Saviola,Pablo Aimar,Fernando Redondo,Esteban Cambiasso,Ángel Di María
+Nicolás Otamendi,Pablo Aimar,Esteban Cambiasso,Maxi Rodríguez,Ángel Di María,Gabriel Batistuta
+Roberto Ayala,Éver Banega,Gabriel Batistuta,Hernán Crespo,Nicolás Burdisso,Esteban Cambiasso
+Gabriel Batistuta,Gonzalo Higuaín,Martín Palermo,Alfredo Di Stéfano,Ariel Ortega,Javier Zanetti,Roberto Ayala,Claudio Caniggia
+Lionel Messi,Hernán Crespo,Maxi Rodríguez,Ariel Ortega
+Nicolás Burdisso,Daniel Passarella,Mario Kempes,Martín Palermo,Gabriel Batistuta,Hernán Crespo,Roberto Ayala,Roberto Sensini
+Martín Palermo,Lionel Messi,Ezequiel Lavezzi,Mario Kempes,Daniel Passarella,Éver Banega,Claudio Caniggia,Hernán Crespo
+Gonzalo Higuaín,Juan Pablo Sorín,Sergio Agüero,Lionel Messi,Javier Zanetti,Carlos Tevez,Roberto Sensini,Roberto Ayala,Éver Banega
+Fernando Redondo,Nicolás Otamendi,Javier Zanetti,Ezequiel Lavezzi,Gabriel Batistuta,Éver Banega,Sergio Agüero,Lionel Messi,Javier Saviola,Javier Mascherano
+Nicolás Burdisso,Daniel Passarella,Éver Banega,Ariel Ortega
+Hernán Crespo,Daniel Passarella,Diego Maradona,Claudio López,Esteban Cambiasso,Sergio Agüero,Ángel Di María,Carlos Tevez,Juan Román Riquelme
+Fernando Redondo,Maxi Rodríguez,Sergio Agüero,Lionel Messi,Gonzalo Higuaín,Javier Saviola
+Alfredo Di Stéfano,Hernán Crespo,Éver Banega,Roberto Ayala,Juan Pablo Sorín,Esteban Cambiasso,Nicolás Burdisso,Ezequiel Lavezzi
+Maxi Rodríguez,Javier Saviola,Roberto Sensini,Javier Mascherano
+Alfredo Di Stéfano,Javier Saviola,Martín Palermo,Carlos Tevez,Gabriel Batistuta,Ezequiel Lavezzi,Esteban Cambiasso,Ángel Di María,Nicolás Burdisso,Daniel Passarella
+Ariel Ortega,Javier Mascherano,Lionel Messi,Pablo Aimar
+Roberto Ayala,Juan Román Riquelme,Gabriel Batistuta,Éver Banega
+Martín Palermo,Ángel Di María,Nicolás Otamendi,Fernando Redondo,Éver Banega
+Diego Maradona,Nicolás Burdisso,Daniel Passarella,Ángel Di María,Alfredo Di Stéfano,Éver Banega,Maxi Rodríguez,Ariel Ortega
+Gabriel Batistuta,Javier Saviola,Mario Kempes,Éver Banega,Javier Mascherano,Gonzalo Higuaín,Claudio López,Carlos Tevez,Roberto Sensini
+Ángel Di María,Roberto Sensini,Esteban Cambiasso,Nicolás Otamendi
+Ángel Di María,Sergio Agüero,Javier Saviola,Maxi Rodríguez,Hernán Crespo,Roberto Ayala,Pablo Aimar,Éver Banega,Ariel Ortega,Esteban Cambiasso
+Javier Mascherano,Ángel Di María,Juan Román Riquelme,Roberto Sensini,Alfredo Di Stéfano,Hernán Crespo,Mario Kempes
+Pablo Aimar,Juan Román Riquelme,Gonzalo Higuaín,Fernando Redondo,Juan Pablo Sorín
+Javier Mascherano,Claudio López,Nicolás Burdisso,Éver Banega,Hernán Crespo,Daniel Passarella,Roberto Sensini,Gabriel Batistuta,Gonzalo Higuaín,Ezequiel Lavezzi
+Martín Palermo,Lionel Messi,Gonzalo Higuaín,Carlos Tevez,Pablo Aimar,Javier Zanetti,Gabriel Batistuta,Nicolás Otamendi
+Ariel Ortega,Javier Saviola,Ángel Di María,Gonzalo Higuaín,Javier Zanetti
+Ariel Ortega,Javier Zanetti,Fernando Redondo,Ángel Di María,Mario Kempes,Esteban Cambiasso
+Maxi Rodríguez,Carlos Tevez,Claudio López,Ángel Di María,Gonzalo Higuaín,Nicolás Burdisso,Ezequiel Lavezzi,Hernán Crespo
+Ariel Ortega,Gabriel Batistuta,Ezequiel Lavezzi,Juan Román Riquelme,Mario Kempes,Éver Banega,Gonzalo Higuaín,Nicolás Otamendi,Diego Maradona
+Claudio Caniggia,Javier Mascherano,Carlos Tevez,Claudio López,Javier Saviola,Javier Zanetti,Hernán Crespo,Mario Kempes
+Hernán Crespo,Daniel Passarella,Ezequiel Lavezzi,Alfredo Di Stéfano,Maxi Rodríguez,Martín Palermo
+Ezequiel Lavezzi,Alfredo Di Stéfano,Javier Zanetti,Gonzalo Higuaín,Fernando Redondo,Ariel Ortega,Roberto Ayala,Javier Mascherano
+Roberto Sensini,Daniel Passarella,Sergio Agüero,Juan Román Riquelme,Nicolás Otamendi,Javier Saviola
+Javier Saviola,Juan Román Riquelme,Diego Maradona,Nicolás Burdisso,Ariel Ortega,Javier Mascherano,Claudio Caniggia
+Claudio López,Gabriel Batistuta,Éver Banega,Sergio Agüero,Mario Kempes,Nicolás Burdisso,Alfredo Di Stéfano,Juan Román Riquelme
+Martín Palermo,Gabriel Batistuta,Mario Kempes,Pablo Aimar,Daniel Passarella
+Carlos Tevez,Diego Maradona,Gonzalo Higuaín,Éver Banega,Gabriel Batistuta,Javier Saviola,Martín Palermo,Alfredo Di Stéfano
+Sergio Agüero,Carlos Tevez,Claudio Caniggia,Roberto Sensini,Ariel Ortega,Javier Zanetti,Alfredo Di Stéfano,Éver Banega,Mario Kempes
+Diego Maradona,Daniel Passarella,Maxi Rodríguez,Claudio Caniggia,Sergio Agüero,Éver Banega,Fernando Redondo,Mario Kempes,Javier Mascherano,Ángel Di María
+Gonzalo Higuaín,Hernán Crespo,Juan Román Riquelme,Javier Zanetti,Alfredo Di Stéfano,Roberto Sensini
+Sergio Agüero,Pablo Aimar,Javier Saviola,Javier Mascherano,Nicolás Otamendi,Nicolás Burdisso
+Sergio Agüero,Roberto Ayala,Claudio Caniggia,Esteban Cambiasso,Juan Pablo Sorín,Carlos Tevez,Nicolás Burdisso,Javier Mascherano,Mario Kempes
+Gabriel Batistuta,Mario Kempes,Javier Mascherano,Pablo Aimar,Alfredo Di Stéfano,Maxi Rodríguez,Ángel Di María,Hernán Crespo,Martín Palermo,Nicolás Burdisso
+Éver Banega,Ángel Di María,Martín Palermo,Pablo Aimar,Javier Zanetti,Alfredo Di Stéfano,Gabriel Batistuta,Juan Román Riquelme,Gonzalo Higuaín,Carlos Tevez
+Roberto Sensini,Daniel Passarella,Javier Zanetti,Gabriel Batistuta
+Alfredo Di Stéfano,Ángel Di María,Hernán Crespo,Gonzalo Higuaín,Javier Mascherano,Roberto Ayala,Javier Zanetti,Ariel Ortega,Claudio Caniggia,Juan Román Riquelme
+Daniel Passarella,Ángel Di María,Lionel Messi,Ariel Ortega,Claudio Caniggia,Mario Kempes
+Lionel Messi,Roberto Sensini,Éver Banega,Ariel Ortega,Ezequiel Lavezzi,Fernando Redondo,Nicolás Otamendi,Hernán Crespo,Javier Zanetti
+Martín Palermo,Nicolás Otamendi,Javier Saviola,Carlos Tevez,Juan Román Riquelme
+Roberto Ayala,Hernán Crespo,Diego Maradona,Javier Mascherano,Gabriel Batistuta,Alfredo Di Stéfano
+Carlos Tevez,Claudio Caniggia,Mario Kempes,Juan Pablo Sorín
+Ángel Di María,Javier Saviola,Esteban Cambiasso,Carlos Tevez,Ariel Ortega,Claudio López
+Roberto Sensini,Sergio Agüero,Ángel Di María,Nicolás Burdisso,Juan Román Riquelme,Carlos Tevez,Fernando Redondo,Gonzalo Higuaín,Claudio López
+Javier Mascherano,Claudio López,Alfredo Di Stéfano,Juan Pablo Sorín
+Daniel Passarella,Fernando Redondo,Claudio López,Juan Román Riquelme,Roberto Sensini,Alfredo Di Stéfano,Juan Pablo Sorín,Esteban Cambiasso
+Roberto Ayala,Javier Saviola,Sergio Agüero,Nicolás Otamendi,Carlos Tevez,Lionel Messi,Nicolás Burdisso,Claudio Caniggia
+Gonzalo Higuaín,Roberto Ayala,Javier Zanetti,Nicolás Burdisso,Mario Kempes,Éver Banega
+Juan Pablo Sorín,Nicolás Otamendi,Javier Zanetti,Pablo Aimar
+Nicolás Otamendi,Hernán Crespo,Javier Mascherano,Gonzalo Higuaín,Pablo Aimar,Éver Banega,Ariel Ortega,Roberto Ayala,Claudio López
+Mario Kempes,Javier Zanetti,Roberto Ayala,Juan Román Riquelme,Esteban Cambiasso
+Claudio Caniggia,Ángel Di María,Éver Banega,Sergio Agüero,Nicolás Burdisso,Nicolás Otamendi,Ariel Ortega,Javier Zanetti,Ezequiel Lavezzi,Hernán Crespo
+Alfredo Di Stéfano,Roberto Sensini,Ezequiel Lavezzi,Javier Zanetti,Claudio López,Claudio Caniggia,Lionel Messi,Martín Palermo,Juan Román Riquelme
+Alfredo Di Stéfano,Javier Saviola,Hernán Crespo,Sergio Agüero,Lionel Messi,Esteban Cambiasso,Gonzalo Higuaín
+Ángel Di María,Roberto Ayala,Javier Zanetti,Sergio Agüero,Maxi Rodríguez,Carlos Tevez,Pablo Aimar
+Javier Saviola,Gonzalo Higuaín,Juan Pablo Sorín,Ángel Di María,Pablo Aimar
+Alfredo Di Stéfano,Claudio Caniggia,Juan Román Riquelme,Martín Palermo
+Roberto Ayala,Carlos Tevez,Javier Saviola,Lionel Messi
+Martín Palermo,Pablo Aimar,Ángel Di María,Hernán Crespo,Javier Zanetti,Roberto Ayala,Juan Román Riquelme,Javier Saviola
+Maxi Rodríguez,Gabriel Batistuta,Mario Kempes,Sergio Agüero,Nicolás Otamendi,Juan Pablo Sorín,Fernando Redondo,Gonzalo Higuaín
+Nicolás Otamendi,Maxi Rodríguez,Roberto Sensini,Alfredo Di Stéfano
+Sergio Agüero,Javier Mascherano,Juan Román Riquelme,Javier Saviola,Alfredo Di Stéfano,Nicolás Otamendi,Esteban Cambiasso,Roberto Sensini,Hernán Crespo,Ariel Ortega
+Diego Maradona,Nicolás Otamendi,Roberto Ayala,Claudio Caniggia,Roberto Sensini,Fernando Redondo,Nicolás Burdisso,Maxi Rodríguez,Javier Saviola,Esteban Cambiasso
+Juan Pablo Sorín,Roberto Ayala,Javier Zanetti,Fernando Redondo,Claudio Caniggia,Claudio López,Ariel Ortega,Éver Banega,Lionel Messi,Martín Palermo
+Diego Maradona,Roberto Sensini,Gabriel Batistuta,Alfredo Di Stéfano,Hernán Crespo,Ángel Di María,Ariel Ortega
+Mario Kempes,Claudio Caniggia,Javier Mascherano,Fernando Redondo,Pablo Aimar,Hernán Crespo
+Pablo Aimar,Lionel Messi,Ángel Di María,Gonzalo Higuaín,Claudio Caniggia,Carlos Tevez,Martín Palermo
+Alfredo Di Stéfano,Gonzalo Higuaín,Éver Banega,Claudio Caniggia
+Nicolás Burdisso,Javier Zanetti,Ángel Di María,Maxi Rodríguez,Roberto Sensini,Éver Banega,Claudio Caniggia,Javier Mascherano
+Roberto Sensini,Ángel Di María,Maxi Rodríguez,Juan Pablo Sorín,Ezequiel Lavezzi,Roberto Ayala
+Claudio López,Esteban Cambiasso,Roberto Ayala,Lionel Messi,Pablo Aimar,Nicolás Otamendi,Éver Banega,Martín Palermo
+Carlos Tevez,Juan Román Riquelme,Claudio Caniggia,Ezequiel Lavezzi,Ángel Di María
+Nicolás Burdisso,Ariel Ortega,Éver Banega,Gabriel Batistuta,Juan Pablo Sorín,Lionel Messi,Sergio Agüero,Nicolás Otamendi
+Éver Banega,Ángel Di María,Sergio Agüero,Daniel Passarella,Maxi Rodríguez,Martín Palermo,Juan Román Riquelme,Javier Zanetti
+Fernando Redondo,Javier Zanetti,Roberto Ayala,Sergio Agüero,Juan Pablo Sorín,Lionel Messi,Nicolás Otamendi,Ángel Di María
+Juan Pablo Sorín,Gabriel Batistuta,Fernando Redondo,Ezequiel Lavezzi,Alfredo Di Stéfano,Diego Maradona,Javier Mascherano,Lionel Messi
+Alfredo Di Stéfano,Ángel Di María,Diego Maradona,Roberto Ayala,Pablo Aimar,Fernando Redondo
+Claudio López,Ezequiel Lavezzi,Pablo Aimar,Juan Román Riquelme,Claudio Caniggia,Lionel Messi,Gonzalo Higuaín,Ariel Ortega,Roberto Ayala
+Roberto Ayala,Nicolás Burdisso,Nicolás Otamendi,Gonzalo Higuaín
+Carlos Tevez,Gonzalo Higuaín,Mario Kempes,Ángel Di María,Ezequiel Lavezzi,Pablo Aimar,Daniel Passarella,Claudio López,Roberto Ayala
+Pablo Aimar,Ángel Di María,Gabriel Batistuta,Claudio López
+Diego Maradona,Gonzalo Higuaín,Juan Román Riquelme,Éver Banega,Javier Saviola,Javier Mascherano,Ariel Ortega,Roberto Ayala
+Carlos Tevez,Juan Pablo Sorín,Alfredo Di Stéfano,Daniel Passarella
+Ariel Ortega,Éver Banega,Fernando Redondo,Claudio López,Daniel Passarella,Hernán Crespo,Javier Mascherano,Alfredo Di Stéfano,Sergio Agüero,Gabriel Batistuta
+Nicolás Burdisso,Maxi Rodríguez,Fernando Redondo,Diego Maradona,Javier Saviola,Roberto Ayala,Gonzalo Higuaín,Martín Palermo
+Javier Saviola,Javier Zanetti,Juan Pablo Sorín,Diego Maradona
+Ángel Di María,Maxi Rodríguez,Gabriel Batistuta,Ezequiel Lavezzi,Diego Maradona,Fernando Redondo,Martín Palermo
+Carlos Tevez,Fernando Redondo,Daniel Passarella,Ezequiel Lavezzi,Gabriel Batistuta,Esteban Cambiasso,Ángel Di María,Diego Maradona,Javier Mascherano,Éver Banega
+Ariel Ortega,Ángel Di María,Roberto Ayala,Javier Saviola,Claudio Caniggia,Javier Mascherano,Roberto Sensini,Javier Zanetti,Daniel Passarella
+Nicolás Otamendi,Roberto Sensini,Hernán Crespo,Claudio Caniggia,Ariel Ortega,Ezequiel Lavezzi
+Gonzalo Higuaín,Fernando Redondo,Mario Kempes,Esteban Cambiasso
+Esteban Cambiasso,Carlos Tevez,Martín Palermo,Nicolás Burdisso,Javier Mascherano,Éver Banega
+Mario Kempes,Sergio Agüero,Gonzalo Higuaín,Javier Zanetti,Maxi Rodríguez,Diego Maradona,Pablo Aimar,Roberto Sensini,Lionel Messi,Éver Banega
+Roberto Sensini,Gonzalo Higuaín,Fernando Redondo,Juan Pablo Sorín,Carlos Tevez,Javier Zanetti,Ariel Ortega,Gabriel Batistuta
+Pablo Aimar,Roberto Sensini,Ariel Ortega,Hernán Crespo,Ezequiel Lavezzi,Nicolás Otamendi
+Ángel Di María,Carlos Tevez,Daniel Passarella,Claudio López,Ezequiel Lavezzi,Diego Maradona,Juan Pablo Sorín,Javier Saviola,Nicolás Otamendi,Ariel Ortega
+Ángel Di María,Esteban Cambiasso,Daniel Passarella,Fernando Redondo,Juan Román Riquelme,Lionel Messi,Gabriel Batistuta,Maxi Rodríguez,Claudio López
+Hernán Crespo,Juan Pablo Sorín,Gabriel Batistuta,Roberto Sensini,Ariel Ortega
+Diego Maradona,Gabriel Batistuta,Daniel Passarella,Alfredo Di Stéfano,Esteban Cambiasso,Javier Saviola
+Carlos Tevez,Mario Kempes,Esteban Cambiasso,Ezequiel Lavezzi,Juan Román Riquelme,Gonzalo Higuaín,Juan Pablo Sorín,Pablo Aimar,Javier Zanetti,Martín Palermo
+Gonzalo Higuaín,Ezequiel Lavezzi,Gabriel Batistuta,Javier Mascherano,Lionel Messi,Pablo Aimar,Martín Palermo
+Lionel Messi,Ariel Ortega,Maxi Rodríguez,Esteban Cambiasso,Roberto Sensini
+Roberto Ayala,Mario Kempes,Hernán Crespo,Carlos Tevez,Fernando Redondo
+Alfredo Di Stéfano,Roberto Sensini,Juan Pablo Sorín,Gonzalo Higuaín,Javier Mascherano,Javier Zanetti,Nicolás Burdisso
+Ángel Di María,Pablo Aimar,Nicolás Otamendi,Éver Banega,Hernán Crespo,Ariel Ortega,Diego Maradona,Carlos Tevez,Nicolás Burdisso
+Claudio López,Roberto Ayala,Mario Kempes,Daniel Passarella,Nicolás Burdisso,Juan Pablo Sorín
+Gabriel Batistuta,Roberto Sensini,Pablo Aimar,Maxi Rodríguez,Martín Palermo,Juan Pablo Sorín,Javier Zanetti,Nicolás Otamendi
+Javier Mascherano,Mario Kempes,Javier Saviola,Sergio Agüero
+Gonzalo Higuaín,Daniel Passarella,Claudio Caniggia,Juan Román Riquelme,Javier Saviola,Martín Palermo,Gabriel Batistuta,Roberto Sensini
+Claudio Caniggia,Martín Palermo,Nicolás Burdisso,Gonzalo Higuaín,Maxi Rodríguez,Juan Pablo Sorín
+Roberto Sensini,Esteban Cambiasso,Éver Banega,Daniel Passarella,Carlos Tevez,Lionel Messi,Sergio Agüero
+Fernando Redondo,Roberto Sensini,Javier Saviola,Javier Mascherano,Nicolás Burdisso,Sergio Agüero,Alfredo Di Stéfano,Diego Maradona,Juan Pablo Sorín,Gonzalo Higuaín
+Javier Saviola,Martín Palermo,Alfredo Di Stéfano,Hernán Crespo,Pablo Aimar,Ángel Di María,Gabriel Batistuta,Nicolás Burdisso
+Gabriel Batistuta,Fernando Redondo,Javier Saviola,Nicolás Burdisso,Esteban Cambiasso,Maxi Rodríguez,Mario Kempes,Ariel Ortega,Pablo Aimar,Martín Palermo
+Juan Pablo Sorín,Javier Saviola,Éver Banega,Diego Maradona,Gabriel Batistuta,Claudio Caniggia,Sergio Agüero,Claudio López
+Nicolás Otamendi,Pablo Aimar,Sergio Agüero,Ariel Ortega,Diego Maradona,Hernán Crespo,Carlos Tevez,Javier Mascherano,Mario Kempes
+Pablo Aimar,Diego Maradona,Daniel Passarella,Claudio Caniggia,Roberto Sensini,Ezequiel Lavezzi
+Carlos Tevez,Martín Palermo,Ezequiel Lavezzi,Juan Pablo Sorín,Gabriel Batistuta,Nicolás Otamendi
+Hernán Crespo,Javier Saviola,Martín Palermo,Éver Banega
+Claudio López,Daniel Passarella,Javier Mascherano,Javier Saviola,Ángel Di María,Roberto Ayala,Martín Palermo,Ariel Ortega,Esteban Cambiasso
+Javier Mascherano,Gabriel Batistuta,Carlos Tevez,Javier Zanetti,Esteban Cambiasso,Roberto Ayala,Diego Maradona,Claudio López
+Gabriel Batistuta,Maxi Rodríguez,Roberto Sensini,Diego Maradona,Éver Banega,Daniel Passarella,Hernán Crespo,Esteban Cambiasso,Javier Mascherano
+Nicolás Otamendi,Lionel Messi,Roberto Sensini,Juan Pablo Sorín,Hernán Crespo,Alfredo Di Stéfano,Mario Kempes
+Nicolás Burdisso,Carlos Tevez,Claudio Caniggia,Gabriel Batistuta,Hernán Crespo,Fernando Redondo,Lionel Messi,Mario Kempes,Nicolás Otamendi,Juan Román Riquelme
+Claudio Caniggia,Juan Román Riquelme,Nicolás Otamendi,Roberto Ayala,Pablo Aimar,Daniel Passarella,Fernando Redondo,Gabriel Batistuta,Diego Maradona
+Martín Palermo,Hernán Crespo,Daniel Passarella,Nicolás Otamendi,Roberto Ayala,Maxi Rodríguez,Éver Banega,Pablo Aimar,Javier Saviola
+Gabriel Batistuta,Javier Mascherano,Roberto Sensini,Nicolás Burdisso,Esteban Cambiasso,Nicolás Otamendi
+Ángel Di María,Diego Maradona,Lionel Messi,Javier Saviola,Alfredo Di Stéfano,Gonzalo Higuaín
+Lionel Messi,Javier Mascherano,Javier Zanetti,Diego Maradona,Pablo Aimar,Maxi Rodríguez,Roberto Ayala,Ezequiel Lavezzi,Daniel Passarella
+Javier Mascherano,Maxi Rodríguez,Roberto Sensini,Ángel Di María
+Lionel Messi,Ariel Ortega,Ezequiel Lavezzi,Daniel Passarella,Hernán Crespo,Gabriel Batistuta,Alfredo Di Stéfano,Fernando Redondo,Pablo Aimar,Mario Kempes
+Daniel Passarella,Ángel Di María,Ariel Ortega,Ezequiel Lavezzi,Juan Pablo Sorín,Maxi Rodríguez,Martín Palermo,Fernando Redondo,Diego Maradona,Sergio Agüero
+Hernán Crespo,Gonzalo Higuaín,Maxi Rodríguez,Alfredo Di Stéfano,Esteban Cambiasso,Daniel Passarella,Lionel Messi,Mario Kempes,Gabriel Batistuta
+Carlos Tevez,Daniel Passarella,Claudio Caniggia,Martín Palermo,Pablo Aimar,Éver Banega,Juan Román Riquelme,Claudio López
+Hernán Crespo,Mario Kempes,Javier Zanetti,Ariel Ortega,Juan Pablo Sorín
+Daniel Passarella,Diego Maradona,Juan Pablo Sorín,Lionel Messi
+Claudio López,Javier Mascherano,Martín Palermo,Gonzalo Higuaín,Éver Banega
+Hernán Crespo,Gabriel Batistuta,Roberto Ayala,Claudio Caniggia,Sergio Agüero,Daniel Passarella,Maxi Rodríguez,Javier Zanetti,Mario Kempes,Alfredo Di Stéfano
+Lionel Messi,Roberto Sensini,Nicolás Otamendi,Daniel Passarella,Carlos Tevez,Gabriel Batistuta,Hernán Crespo,Claudio López,Juan Pablo Sorín,Ariel Ortega
+Nicolás Burdisso,Ángel Di María,Éver Banega,Claudio López,Ariel Ortega,Javier Zanetti,Javier Saviola,Gonzalo Higuaín,Martín Palermo
+Roberto Sensini,Esteban Cambiasso,Ángel Di María,Alfredo Di Stéfano,Ezequiel Lavezzi,Gabriel Batistuta,Carlos Tevez,Éver Banega,Diego Maradona,Gonzalo Higuaín
+Esteban Cambiasso,Ángel Di María,Ariel Ortega,Pablo Aimar,Nicolás Otamendi,Juan Román Riquelme,Gonzalo Higuaín,Roberto Sensini,Diego Maradona,Roberto Ayala
+Juan Pablo Sorín,Hernán Crespo,Pablo Aimar,Martín Palermo,Ariel Ortega,Roberto Ayala,Esteban Cambiasso,Diego Maradona,Javier Zanetti
+Javier Mascherano,Maxi Rodríguez,Gonzalo Higuaín,Martín Palermo
+Martín Palermo,Juan Pablo Sorín,Roberto Sensini,Mario Kempes,Ariel Ortega,Gonzalo Higuaín,Claudio Caniggia
+Roberto Sensini,Roberto Ayala,Nicolás Otamendi,Hernán Crespo,Fernando Redondo,Lionel Messi,Javier Zanetti,Javier Mascherano,Juan Pablo Sorín,Carlos Tevez
+Mario Kempes,Lionel Messi,Sergio Agüero,Juan Pablo Sorín,Nicolás Otamendi,Alfredo Di Stéfano,Ángel Di María,Roberto Sensini,Hernán Crespo,Maxi Rodríguez
+Ángel Di María,Lionel Messi,Roberto Ayala,Juan Román Riquelme
+Gabriel Batistuta,Hernán Crespo,Esteban Cambiasso,Martín Palermo
+Pablo Aimar,Diego Maradona,Nicolás Burdisso,Sergio Agüero,Juan Pablo Sorín,Roberto Ayala,Lionel Messi,Ezequiel Lavezzi
+Sergio Agüero,Carlos Tevez,Alfredo Di Stéfano,Juan Pablo Sorín,Roberto Ayala,Esteban Cambiasso,Éver Banega,Roberto Sensini,Claudio López
+Alfredo Di Stéfano,Roberto Sensini,Éver Banega,Nicolás Burdisso,Gabriel Batistuta,Ángel Di María
+Ariel Ortega,Carlos Tevez,Javier Mascherano,Maxi Rodríguez,Javier Saviola,Claudio Caniggia
+Gonzalo Higuaín,Nicolás Otamendi,Javier Zanetti,Diego Maradona,Claudio López,Claudio Caniggia,Javier Saviola
+Éver Banega,Diego Maradona,Hernán Crespo,Claudio López
+Lionel Messi,Javier Zanetti,Hernán Crespo,Gabriel Batistuta
+Éver Banega,Javier Zanetti,Hernán Crespo,Claudio Caniggia,Ezequiel Lavezzi,Gabriel Batistuta
+Roberto Ayala,Sergio Agüero,Esteban Cambiasso,Carlos Tevez,Mario Kempes,Fernando Redondo,Javier Zanetti,Lionel Messi,Martín Palermo,Éver Banega
+Javier Mascherano,Roberto Sensini,Javier Saviola,Gabriel Batistuta,Diego Maradona,Carlos Tevez,Ángel Di María,Ariel Ortega,Nicolás Burdisso,Gonzalo Higuaín
+Javier Saviola,Nicolás Burdisso,Claudio Caniggia,Éver Banega,Pablo Aimar
+Nicolás Otamendi,Hernán Crespo,Martín Palermo,Claudio Caniggia,Juan Román Riquelme,Alfredo Di Stéfano,Javier Zanetti,Gonzalo Higuaín,Lionel Messi
+Sergio Agüero,Martín Palermo,Roberto Ayala,Maxi Rodríguez,Éver Banega,Hernán Crespo
+Ángel Di María,Roberto Sensini,Daniel Passarella,Claudio Caniggia,Lionel Messi
+Esteban Cambiasso,Gabriel Batistuta,Javier Mascherano,Sergio Agüero,Mario Kempes,Roberto Ayala,Ariel Ortega,Claudio Caniggia
+Daniel Passarella,Gabriel Batistuta,Esteban Cambiasso,Nicolás Otamendi,Ezequiel Lavezzi,Claudio López
+Gonzalo Higuaín,Diego Maradona,Juan Román Riquelme,Hernán Crespo,Roberto Ayala,Martín Palermo,Ángel Di María,Nicolás Burdisso,Javier Zanetti
+Gabriel Batistuta,Juan Román Riquelme,Nicolás Burdisso,Alfredo Di Stéfano,Éver Banega,Daniel Passarella,Claudio López,Martín Palermo
+Gonzalo Higuaín,Alfredo Di Stéfano,Maxi Rodríguez,Martín Palermo,Ariel Ortega,Pablo Aimar,Lionel Messi
+Roberto Sensini,Ezequiel Lavezzi,Nicolás Otamendi,Javier Mascherano,Ángel Di María,Juan Román Riquelme
+Ezequiel Lavezzi,Esteban Cambiasso,Mario Kempes,Gonzalo Higuaín,Diego Maradona
+Esteban Cambiasso,Claudio López,Juan Pablo Sorín,Javier Zanetti
+Alfredo Di Stéfano,Lionel Messi,Maxi Rodríguez,Roberto Ayala,Claudio López,Daniel Passarella,Hernán Crespo
+Claudio Caniggia,Javier Mascherano,Maxi Rodríguez,Esteban Cambiasso,Gabriel Batistuta,Alfredo Di Stéfano
+Esteban Cambiasso,Sergio Agüero,Daniel Passarella,Claudio Caniggia,Pablo Aimar,Gabriel Batistuta
+Pablo Aimar,Ángel Di María,Roberto Sensini,Juan Román Riquelme,Gonzalo Higuaín,Claudio Caniggia,Lionel Messi,Ariel Ortega,Sergio Agüero
+Esteban Cambiasso,Ezequiel Lavezzi,Ángel Di María,Carlos Tevez
+Éver Banega,Javier Saviola,Daniel Passarella,Sergio Agüero,Alfredo Di Stéfano,Claudio Caniggia,Claudio López,Juan Pablo Sorín
+Daniel Passarella,Pablo Aimar,Sergio Agüero,Fernando Redondo,Roberto Sensini,Diego Maradona,Javier Mascherano
+Carlos Tevez,Roberto Sensini,Martín Palermo,Mario Kempes,Lionel Messi,Diego Maradona,Juan Román Riquelme,Claudio López
+Ángel Di María,Javier Mascherano,Juan Pablo Sorín,Gonzalo Higuaín,Roberto Sensini,Esteban Cambiasso,Fernando Redondo,Éver Banega,Claudio Caniggia,Mario Kempes
+Ángel Di María,Javier Mascherano,Fernando Redondo,Éver Banega,Javier Saviola,Ezequiel Lavezzi,Diego Maradona
+Daniel Passarella,Mario Kempes,Fernando Redondo,Claudio Caniggia,Gonzalo Higuaín,Alfredo Di Stéfano,Hernán Crespo,Javier Mascherano
+Maxi Rodríguez,Nicolás Burdisso,Martín Palermo,Claudio López
+Gabriel Batistuta,Claudio Caniggia,Roberto Sensini,Javier Mascherano,Esteban Cambiasso,Claudio López,Ariel Ortega,Hernán Crespo,Mario Kempes
+Nicolás Otamendi,Javier Saviola,Martín Palermo,Ángel Di María
+Alfredo Di Stéfano,Maxi Rodríguez,Diego Maradona,Fernando Redondo
+Diego Maradona,Javier Mascherano,Carlos Tevez,Roberto Sensini,Ariel Ortega,Nicolás Otamendi,Hernán Crespo,Claudio López,Gonzalo Higuaín
+Pablo Aimar,Claudio López,Daniel Passarella,Alfredo Di Stéfano,Juan Pablo Sorín,Martín Palermo,Maxi Rodríguez,Nicolás Burdisso
+Hernán Crespo,Juan Román Riquelme,Éver Banega,Ezequiel Lavezzi,Lionel Messi,Pablo Aimar,Diego Maradona,Mario Kempes,Daniel Passarella,Gonzalo Higuaín
+Hernán Crespo,Ezequiel Lavezzi,Nicolás Otamendi,Ángel Di María,Roberto Sensini,Mario Kempes,Juan Pablo Sorín
+Alfredo Di Stéfano,Fernando Redondo,Gonzalo Higuaín,Ariel Ortega
+Fernando Redondo,Javier Mascherano,Ariel Ortega,Sergio Agüero,Juan Pablo Sorín,Maxi Rodríguez
+Lionel Messi,Gabriel Batistuta,Diego Maradona,Ezequiel Lavezzi,Nicolás Otamendi,Maxi Rodríguez,Gonzalo Higuaín,Claudio Caniggia
+Javier Mascherano,Lionel Messi,Éver Banega,Alfredo Di Stéfano,Fernando Redondo,Esteban Cambiasso,Gonzalo Higuaín,Juan Pablo Sorín,Martín Palermo
+Javier Zanetti,Claudio López,Maxi Rodríguez,Fernando Redondo,Ezequiel Lavezzi,Lionel Messi
+Esteban Cambiasso,Juan Román Riquelme,Javier Zanetti,Gabriel Batistuta,Claudio López
+Fernando Redondo,Pablo Aimar,Éver Banega,Maxi Rodríguez
+Daniel Passarella,Sergio Agüero,Ángel Di María,Ezequiel Lavezzi
+Carlos Tevez,Juan Román Riquelme,Claudio Caniggia,Esteban Cambiasso,Javier Zanetti,Maxi Rodríguez,Gonzalo Higuaín,Gabriel Batistuta,Roberto Ayala,Nicolás Burdisso
+Mario Kempes,Pablo Aimar,Martín Palermo,Ariel Ortega,Gabriel Batistuta,Juan Román Riquelme,Javier Saviola,Nicolás Otamendi,Claudio Caniggia
+Carlos Tevez,Mario Kempes,Juan Román Riquelme,Lionel Messi
+Nicolás Burdisso,Fernando Redondo,Diego Maradona,Daniel Passarella,Lionel Messi,Pablo Aimar,Roberto Ayala,Claudio Caniggia,Ariel Ortega
+Fernando Redondo,Sergio Agüero,Roberto Sensini,Juan Pablo Sorín,Nicolás Otamendi,Martín Palermo,Carlos Tevez,Javier Mascherano,Ángel Di María,Lionel Messi
+Juan Román Riquelme,Claudio López,Claudio Caniggia,Éver Banega,Martín Palermo,Roberto Sensini,Mario Kempes,Lionel Messi
+Roberto Sensini,Martín Palermo,Sergio Agüero,Ezequiel Lavezzi,Lionel Messi,Juan Román Riquelme,Hernán Crespo,Pablo Aimar,Javier Zanetti,Roberto Ayala
+Javier Zanetti,Éver Banega,Maxi Rodríguez,Gonzalo Higuaín
+Javier Saviola,Lionel Messi,Pablo Aimar,Mario Kempes,Claudio López,Claudio Caniggia,Gabriel Batistuta,Maxi Rodríguez,Martín Palermo
+Javier Mascherano,Ariel Ortega,Juan Pablo Sorín,Claudio López,Carlos Tevez,Hernán Crespo,Roberto Sensini,Sergio Agüero
+Ariel Ortega,Ángel Di María,Maxi Rodríguez,Juan Pablo Sorín,Javier Zanetti,Gonzalo Higuaín
+Nicolás Burdisso,Juan Román Riquelme,Ezequiel Lavezzi,Javier Mascherano,Martín Palermo,Javier Saviola,Roberto Ayala,Diego Maradona
+Martín Palermo,Ezequiel Lavezzi,Gonzalo Higuaín,Roberto Sensini,Nicolás Otamendi,Diego Maradona
+Martín Palermo,Nicolás Burdisso,Maxi Rodríguez,Gonzalo Higuaín
+Daniel Passarella,Carlos Tevez,Juan Román Riquelme,Mario Kempes
+Ezequiel Lavezzi,Pablo Aimar,Juan Román Riquelme,Diego Maradona,Nicolás Burdisso,Fernando Redondo,Esteban Cambiasso,Javier Mascherano
+Javier Saviola,Ariel Ortega,Claudio López,Roberto Sensini
+Ariel Ortega,Alfredo Di Stéfano,Claudio López,Fernando Redondo,Roberto Ayala,Hernán Crespo,Sergio Agüero,Maxi Rodríguez,Juan Román Riquelme,Claudio Caniggia
+Ezequiel Lavezzi,Nicolás Burdisso,Roberto Sensini,Javier Zanetti
+Juan Román Riquelme,Javier Saviola,Maxi Rodríguez,Ezequiel Lavezzi
+Javier Saviola,Ariel Ortega,Pablo Aimar,Daniel Passarella,Carlos Tevez,Esteban Cambiasso,Hernán Crespo,Nicolás Otamendi,Javier Zanetti,Sergio Agüero
+Claudio López,Éver Banega,Fernando Redondo,Javier Saviola,Juan Pablo Sorín,Pablo Aimar,Diego Maradona
+Claudio López,Sergio Agüero,Diego Maradona,Javier Zanetti,Hernán Crespo,Fernando Redondo
+Nicolás Burdisso,Pablo Aimar,Roberto Ayala,Juan Román Riquelme,Sergio Agüero,Claudio López,Javier Mascherano,Lionel Messi,Ángel Di María,Nicolás Otamendi
+Carlos Tevez,Gonzalo Higuaín,Ariel Ortega,Pablo Aimar,Javier Zanetti,Gabriel Batistuta
+Ángel Di María,Claudio López,Hernán Crespo,Diego Maradona
+Fernando Redondo,Éver Banega,Ezequiel Lavezzi,Gabriel Batistuta,Nicolás Otamendi,Claudio Caniggia,Carlos Tevez
+Nicolás Otamendi,Pablo Aimar,Ariel Ortega,Roberto Sensini,Juan Pablo Sorín,Ezequiel Lavezzi,Daniel Passarella,Javier Mascherano
+Fernando Redondo,Ángel Di María,Martín Palermo,Carlos Tevez,Claudio Caniggia,Sergio Agüero
+Javier Mascherano,Daniel Passarella,Éver Banega,Ariel Ortega,Nicolás Burdisso,Alfredo Di Stéfano,Pablo Aimar,Carlos Tevez,Roberto Sensini,Claudio Caniggia
