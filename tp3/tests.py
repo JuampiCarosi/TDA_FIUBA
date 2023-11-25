@@ -126,7 +126,7 @@ def comparacion_programacion_lineal():
   plt.show()
   
   
-def raiz_b():
+def cota_raiz_b():
   
   resultados_totales = []
   
@@ -150,6 +150,9 @@ def raiz_b():
     plt.title(f'Periodistas vs Relajada/Entera (promedio {promedio})')
     plt.plot([resultado[1] for resultado in resultados], [resultado[4]/resultado[3] for resultado in resultados], label=f'Relaja/Entera')
     plt.plot([resultado[1] for resultado in resultados], [math.sqrt(resultado[2]) for resultado in resultados], label=f'Raiz b')
+    plt.xlabel('Cantidad periodistas')
+    plt.ylabel('Cota de Aproximación')
+    plt.legend()
     plt.show()
     resultados_totales.extend(resultados)
     
@@ -222,8 +225,8 @@ def graficos_detallados():
 
 if __name__ == '__main__':
 
-  if sys.argv[1] == 'raiz_b':
-    raiz_b()
+  if sys.argv[1] == 'cota-raiz-b':
+    cota_raiz_b()
     exit()
 
   if sys.argv[1] == 'comparacion':

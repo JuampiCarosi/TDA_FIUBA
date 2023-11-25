@@ -9,6 +9,7 @@ Periodistas: 150, promedio: 6, b: 9, raiz b: 3.0 relajada/entera: 2.217391304347
 Periodistas: 200, promedio: 6, b: 9, raiz b: 3.0 relajada/entera: 2.5416666666666665
 Periodistas: 250, promedio: 6, b: 9, raiz b: 3.0 relajada/entera: 2.2962962962962963
 Periodistas: 300, promedio: 6, b: 9, raiz b: 3.0 relajada/entera: 2.1724137931034484
+
 Periodistas: 10, promedio: 10, b: 14, raiz b: 3.7416573867739413 relajada/entera: 1.0
 Periodistas: 20, promedio: 10, b: 15, raiz b: 3.872983346207417 relajada/entera: 2.0
 Periodistas: 30, promedio: 10, b: 15, raiz b: 3.872983346207417 relajada/entera: 2.625
@@ -20,6 +21,7 @@ Periodistas: 150, promedio: 10, b: 15, raiz b: 3.872983346207417 relajada/entera
 Periodistas: 200, promedio: 10, b: 15, raiz b: 3.872983346207417 relajada/entera: 3.176470588235294
 Periodistas: 250, promedio: 10, b: 15, raiz b: 3.872983346207417 relajada/entera: 3.3684210526315788
 Periodistas: 300, promedio: 10, b: 15, raiz b: 3.872983346207417 relajada/entera: 3.15
+
 Periodistas: 10, promedio: 14, b: 18, raiz b: 4.242640687119285 relajada/entera: 1.0
 Periodistas: 20, promedio: 14, b: 21, raiz b: 4.58257569495584 relajada/entera: 2.6
 Periodistas: 30, promedio: 14, b: 21, raiz b: 4.58257569495584 relajada/entera: 3.1666666666666665
@@ -31,6 +33,7 @@ Periodistas: 150, promedio: 14, b: 21, raiz b: 4.58257569495584 relajada/entera:
 Periodistas: 200, promedio: 14, b: 21, raiz b: 4.58257569495584 relajada/entera: 4.076923076923077
 Periodistas: 250, promedio: 14, b: 21, raiz b: 4.58257569495584 relajada/entera: 3.8666666666666667
 Periodistas: 300, promedio: 14, b: 21, raiz b: 4.58257569495584 relajada/entera: 3.625
+
 Periodistas: 10, promedio: 18, b: 23, raiz b: 4.795831523312719 relajada/entera: 2.3333333333333335
 Periodistas: 20, promedio: 18, b: 27, raiz b: 5.196152422706632 relajada/entera: 2.8
 Periodistas: 30, promedio: 18, b: 27, raiz b: 5.196152422706632 relajada/entera: 4.0
@@ -42,6 +45,7 @@ Periodistas: 150, promedio: 18, b: 27, raiz b: 5.196152422706632 relajada/entera
 Periodistas: 200, promedio: 18, b: 27, raiz b: 5.196152422706632 relajada/entera: 4.363636363636363
 Periodistas: 250, promedio: 18, b: 27, raiz b: 5.196152422706632 relajada/entera: 4.083333333333333
 Periodistas: 300, promedio: 18, b: 27, raiz b: 5.196152422706632 relajada/entera: 4.3076923076923075
+
 Periodistas: 10, promedio: 22, b: 33, raiz b: 5.744562646538029 relajada/entera: 1.0
 Periodistas: 20, promedio: 22, b: 33, raiz b: 5.744562646538029 relajada/entera: 3.75
 Periodistas: 30, promedio: 22, b: 33, raiz b: 5.744562646538029 relajada/entera: 3.8
@@ -53,6 +57,7 @@ Periodistas: 150, promedio: 22, b: 33, raiz b: 5.744562646538029 relajada/entera
 Periodistas: 200, promedio: 22, b: 33, raiz b: 5.744562646538029 relajada/entera: 4.1
 Periodistas: 250, promedio: 22, b: 33, raiz b: 5.744562646538029 relajada/entera: 4.3
 Periodistas: 300, promedio: 22, b: 33, raiz b: 5.744562646538029 relajada/entera: 5.0
+
 Periodistas: 10, promedio: 26, b: 39, raiz b: 6.244997998398398 relajada/entera: 4.0
 Periodistas: 20, promedio: 26, b: 39, raiz b: 6.244997998398398 relajada/entera: 4.0
 Periodistas: 30, promedio: 26, b: 39, raiz b: 6.244997998398398 relajada/entera: 4.5
